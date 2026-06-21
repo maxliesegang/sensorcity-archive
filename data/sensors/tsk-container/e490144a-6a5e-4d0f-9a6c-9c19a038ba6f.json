@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2612,
+    "objectId": 2834,
     "deviceId": "e490144a-6a5e-4d0f-9a6c-9c19a038ba6f",
     "name": "Kanzlerstr. (Parkplatz bei Festhalle)",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782074705724, 95]
+    [1782074705724, 95],
+    [1782085502945, 95]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-21T23:45:26.711Z"
 }

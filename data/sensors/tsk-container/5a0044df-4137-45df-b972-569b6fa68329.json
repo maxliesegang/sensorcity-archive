@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2606,
+    "objectId": 2831,
     "deviceId": "5a0044df-4137-45df-b972-569b6fa68329",
     "name": "Schinnrainstr. (bei der Tafel )",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782073936488, 83]
+    [1782073936488, 83],
+    [1782084735311, 81]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-21T23:45:26.711Z"
 }

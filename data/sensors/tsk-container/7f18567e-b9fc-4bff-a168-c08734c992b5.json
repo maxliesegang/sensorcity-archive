@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2770,
+    "objectId": 2828,
     "deviceId": "7f18567e-b9fc-4bff-a168-c08734c992b5",
     "name": "Geigersbergstr./Bergwaldstr.",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782068783044, 31]
+    [1782068783044, 31],
+    [1782083179908, 12]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-21T23:45:26.711Z"
 }
