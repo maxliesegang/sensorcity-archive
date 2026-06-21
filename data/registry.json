@@ -1,0 +1,1865 @@
+{
+  "updatedAt": "2026-06-21T21:31:46.004Z",
+  "sensorCount": 143,
+  "sensors": [
+    {
+      "deviceId": "7ceb0590-e2f0-4f9e-a3dc-5257a4729f57",
+      "objectId": 1146,
+      "name": "003 - Kreuzung Herrenalber Strasse - Battstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/7ceb0590-e2f0-4f9e-a3dc-5257a4729f57.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077064707,
+      "latestValue": 27.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "12e7c058-297b-402a-8412-758aecf6873a",
+      "objectId": 1175,
+      "name": "004 - Brunnenstueckweg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/12e7c058-297b-402a-8412-758aecf6873a.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077269505,
+      "latestValue": 24.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "5709d661-984b-4d68-bea3-ffd0e8e114c7",
+      "objectId": 1149,
+      "name": "006 - Luetzenhardtstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/5709d661-984b-4d68-bea3-ffd0e8e114c7.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077090833,
+      "latestValue": 26.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "7417ed1a-57d6-43dc-a21e-63b831c882c4",
+      "objectId": 1200,
+      "name": "007 - Weiherfeldstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/7417ed1a-57d6-43dc-a21e-63b831c882c4.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077408398,
+      "latestValue": 25.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "da9b5ec5-973b-47ff-a379-a4c3f1e6259e",
+      "objectId": 1183,
+      "name": "008 - Weiherfeldstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/da9b5ec5-973b-47ff-a379-a4c3f1e6259e.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077268707,
+      "latestValue": 26.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a70d98c2-bfe0-4060-9809-e17275b9e71b",
+      "objectId": 1778,
+      "name": "011 - Schauinslandstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/a70d98c2-bfe0-4060-9809-e17275b9e71b.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077504851,
+      "latestValue": 26.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "62a3625b-dfe6-4d0f-a684-243a3b273dc6",
+      "objectId": 1129,
+      "name": "013 - Bahnhofplatz 6",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/62a3625b-dfe6-4d0f-a684-243a3b273dc6.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076987971,
+      "latestValue": 27.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "d717247c-9f7f-42d4-aa19-744f50297ceb",
+      "objectId": 1130,
+      "name": "014 - Badeniaplatz",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/d717247c-9f7f-42d4-aa19-744f50297ceb.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076998554,
+      "latestValue": 26.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "92d5259d-f6f1-4c5f-81ad-12d8ba8194c4",
+      "objectId": 1182,
+      "name": "015 - Wilhelm-Leuschner-Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/92d5259d-f6f1-4c5f-81ad-12d8ba8194c4.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077308667,
+      "latestValue": 23.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "d948a6fb-a619-419c-b96e-b7f3d4a00e85",
+      "objectId": 1152,
+      "name": "017 - Kreuzung Kreuzelbergstrasse - Bernsteinstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/d948a6fb-a619-419c-b96e-b7f3d4a00e85.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077112918,
+      "latestValue": 26.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "d116cdf7-c2ee-459b-aa85-82a3a8458629",
+      "objectId": 1156,
+      "name": "018 - Staufenbergweg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/d116cdf7-c2ee-459b-aa85-82a3a8458629.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077131034,
+      "latestValue": 23.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "2c322042-2116-4e1e-95d1-a6980263dd49",
+      "objectId": 1373,
+      "name": "020 - Kreuzung Turnerstrasse - Hollaenderstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/2c322042-2116-4e1e-95d1-a6980263dd49.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077024803,
+      "latestValue": 27.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "acfe4c22-4203-48c3-8c40-a719cc952912",
+      "objectId": 1202,
+      "name": "021 - Kornweg 33",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/acfe4c22-4203-48c3-8c40-a719cc952912.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077397370,
+      "latestValue": 24.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "18e15762-7804-4ca9-a0dc-8942a272f3e4",
+      "objectId": 1162,
+      "name": "023 - Am Rueppurer Schloss",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/18e15762-7804-4ca9-a0dc-8942a272f3e4.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077189691,
+      "latestValue": 25.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a919cdff-9880-4c87-a348-68d24cd20824",
+      "objectId": 2607,
+      "name": "027 - Rappenwoert - Endhaltestelle",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/a919cdff-9880-4c87-a348-68d24cd20824.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782074656239,
+      "latestValue": 24.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "4baf6c69-41f2-4dc9-9022-732333c1a41b",
+      "objectId": 1141,
+      "name": "031 - Am Kirchtal 6",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/4baf6c69-41f2-4dc9-9022-732333c1a41b.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077092404,
+      "latestValue": 25.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "845e2850-220c-45d0-880d-c8d3cd219dcd",
+      "objectId": 1192,
+      "name": "033 - Siemensallee - Sudetenstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/845e2850-220c-45d0-880d-c8d3cd219dcd.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077321911,
+      "latestValue": 27.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "8e201d37-51c1-4aee-80ff-cc9d775533f2",
+      "objectId": 1748,
+      "name": "035 - Honsellstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/8e201d37-51c1-4aee-80ff-cc9d775533f2.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077274742,
+      "latestValue": 27.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "d0fa8ca0-6339-4e20-9d76-88e80c7af2c4",
+      "objectId": 2801,
+      "name": "041 - Gruenhutstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/d0fa8ca0-6339-4e20-9d76-88e80c7af2c4.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076966461,
+      "latestValue": 26.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "97289f50-ef55-4aed-8488-67807c4f7674",
+      "objectId": 1161,
+      "name": "042 - Entenfang",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/97289f50-ef55-4aed-8488-67807c4f7674.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077197494,
+      "latestValue": 28.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "c03a0e5a-f721-4b84-8fd6-ed79f0b00ce7",
+      "objectId": 1171,
+      "name": "046 - Unterer Dammweg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/c03a0e5a-f721-4b84-8fd6-ed79f0b00ce7.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077253730,
+      "latestValue": 24.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "dc831fce-75c5-40c0-bcbc-c2f082dbb4fb",
+      "objectId": 2325,
+      "name": "047 - Neureuter Hauptstrasse - Kreuzung Teutschneureuter Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/dc831fce-75c5-40c0-bcbc-c2f082dbb4fb.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076921556,
+      "latestValue": 26.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "3a23b3b0-af85-4d61-b9e4-f685c4c29d3e",
+      "objectId": 1177,
+      "name": "049 - Unterfeldstrasse - Haltestelle Baerenweg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/3a23b3b0-af85-4d61-b9e4-f685c4c29d3e.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077270598,
+      "latestValue": 27.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "6ef7fafe-ba3e-45c3-8e8a-fb1751012dab",
+      "objectId": 1167,
+      "name": "051 - Baerenweg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/6ef7fafe-ba3e-45c3-8e8a-fb1751012dab.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077244154,
+      "latestValue": 25.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "1e4c4e5e-dc83-461b-9781-ea31b0770318",
+      "objectId": 1187,
+      "name": "055 - Moldaustrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/1e4c4e5e-dc83-461b-9781-ea31b0770318.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077332892,
+      "latestValue": 26.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a66d43c4-d045-42cb-b084-15d5f8e5e8b0",
+      "objectId": 1170,
+      "name": "058 - Kaiserslauterner Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/a66d43c4-d045-42cb-b084-15d5f8e5e8b0.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077232878,
+      "latestValue": 25.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "57877931-8de9-4f4e-9ae0-f5669f4dc1cd",
+      "objectId": 1143,
+      "name": "059 - Wilhelm-Hausenstein-Allee - Kreuzung Landauer Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/57877931-8de9-4f4e-9ae0-f5669f4dc1cd.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077078534,
+      "latestValue": 27.3,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "efa62401-319f-457a-a1ba-efa4e63321b0",
+      "objectId": 2597,
+      "name": "062 - Siemensallee",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/efa62401-319f-457a-a1ba-efa4e63321b0.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076950389,
+      "latestValue": 27.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "5d93192b-6385-401c-888f-f386d42c2808",
+      "objectId": 1131,
+      "name": "066 - Tennesseeallee",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/5d93192b-6385-401c-888f-f386d42c2808.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077013178,
+      "latestValue": 25.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "4c97b7d2-a3c8-4134-9698-3904c2745c72",
+      "objectId": 1190,
+      "name": "069 - Willy-Brandt-Allee - Kreuzung Moltkestrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/4c97b7d2-a3c8-4134-9698-3904c2745c72.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077345757,
+      "latestValue": 25.3,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a977022d-505d-4360-9bd9-bbc03dcc8027",
+      "objectId": 1663,
+      "name": "071 - Hagsfelder Allee - Fasanengarten",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/a977022d-505d-4360-9bd9-bbc03dcc8027.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077464273,
+      "latestValue": 24.3,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "d7a32b1b-758a-4596-9b4b-0fd5ac5f38ed",
+      "objectId": 1145,
+      "name": "072 - Kreuzung Adenauerring - Theodor-Heuss-Allee",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/d7a32b1b-758a-4596-9b4b-0fd5ac5f38ed.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077102929,
+      "latestValue": 24.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "21eb5204-6d2e-4c49-8c42-057a5b5ea677",
+      "objectId": 1135,
+      "name": "075 - Kreuzung Glogauer Strasse - Beuthener Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/21eb5204-6d2e-4c49-8c42-057a5b5ea677.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077033309,
+      "latestValue": 25.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "39a237f7-e8bb-4884-a85b-33c61daf8535",
+      "objectId": 1178,
+      "name": "080 - Schwetzinger Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/39a237f7-e8bb-4884-a85b-33c61daf8535.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077266046,
+      "latestValue": 23.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "fd2bec2e-dd9a-4ec6-92eb-b66dcc9b902e",
+      "objectId": 1198,
+      "name": "081 - Karlsruher Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/fd2bec2e-dd9a-4ec6-92eb-b66dcc9b902e.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077410453,
+      "latestValue": 26.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "35b3f2ef-64da-4dec-aacd-2e3b755a96db",
+      "objectId": 1164,
+      "name": "084 - Kreuzung Am Storrenacker - Printztrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/35b3f2ef-64da-4dec-aacd-2e3b755a96db.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077205700,
+      "latestValue": 27,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "64f3b810-576b-4d69-87bc-425f6bdca9bb",
+      "objectId": 1212,
+      "name": "086 - Rintheimer Hauptstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/64f3b810-576b-4d69-87bc-425f6bdca9bb.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077139181,
+      "latestValue": 26.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "f6551566-c2bd-427a-a300-fba7a1c81f06",
+      "objectId": 1163,
+      "name": "090 - Haid-und-Neustrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/f6551566-c2bd-427a-a300-fba7a1c81f06.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077222746,
+      "latestValue": 25.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "5658d7a4-3bd1-4262-8c41-f0db27ad293a",
+      "objectId": 1158,
+      "name": "092 - Kreuzung Ostring - Rintheimer Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/5658d7a4-3bd1-4262-8c41-f0db27ad293a.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077156453,
+      "latestValue": 27.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "4abb8f64-6eb0-43da-9bf1-4ec3be833dc8",
+      "objectId": 1188,
+      "name": "095 - Kreuzung Seldeneckstrasse - Tristanstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/4abb8f64-6eb0-43da-9bf1-4ec3be833dc8.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077362406,
+      "latestValue": 28.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "674cf478-986d-4348-ac25-953616e2660a",
+      "objectId": 1168,
+      "name": "097 - Moltkestrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/674cf478-986d-4348-ac25-953616e2660a.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077246159,
+      "latestValue": 28.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "b969fb2e-c6ba-4261-80a7-4ccec7d53be1",
+      "objectId": 1205,
+      "name": "099 - Kreuzung Yorckstrasse - Sophienstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/b969fb2e-c6ba-4261-80a7-4ccec7d53be1.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077394175,
+      "latestValue": 28.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "8df8b93f-cc43-4a4c-ae21-74da1e6afe70",
+      "objectId": 2699,
+      "name": "100 - Kreuzung Kaiserallee - Reinhold-Frank-Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/8df8b93f-cc43-4a4c-ae21-74da1e6afe70.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076984279,
+      "latestValue": 28.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "2c556ad6-f2a4-444a-8473-3e33535b18be",
+      "objectId": 1154,
+      "name": "101 - SP - Kreuzung Kriegstrasse - Brauerstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/2c556ad6-f2a4-444a-8473-3e33535b18be.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077162034,
+      "latestValue": 29,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e7c9b3a2-26cf-49fc-95a8-cec498b5d073",
+      "objectId": 2697,
+      "name": "102 - SP - Gartenstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/e7c9b3a2-26cf-49fc-95a8-cec498b5d073.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076968710,
+      "latestValue": 28.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "63ce7efb-46ef-4b9f-b392-ea676a04fffb",
+      "objectId": 1142,
+      "name": "104 - SP - Beiertheimer Allee",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/63ce7efb-46ef-4b9f-b392-ea676a04fffb.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077102106,
+      "latestValue": 27.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "64bf6306-c9f0-4e44-af9b-625bbf6d6ee9",
+      "objectId": 1144,
+      "name": "105 - Ettlinger Strasse - Kreuzung Kriegsstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/64bf6306-c9f0-4e44-af9b-625bbf6d6ee9.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077174163,
+      "latestValue": 29,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "8d771f8c-0937-4965-b01b-3d98e6dc07e5",
+      "objectId": 1138,
+      "name": "106 - Kreuzung Waldhornstrasse - Kaiserstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/8d771f8c-0937-4965-b01b-3d98e6dc07e5.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077070630,
+      "latestValue": 29.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e9102a9b-fc11-4c90-b7f7-fc42debe0220",
+      "objectId": 2302,
+      "name": "107 - Kreuzung Ludwig-Erhard-Allee - Fritz-Erler-Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/e9102a9b-fc11-4c90-b7f7-fc42debe0220.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077286170,
+      "latestValue": 29.3,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "dac82f23-a9c4-4e03-bce9-f08aaef200e9",
+      "objectId": 1136,
+      "name": "108 - Kreuzung Kaiserstrasse - Kappellenstrasse - Durlacher Tor",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/dac82f23-a9c4-4e03-bce9-f08aaef200e9.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077026985,
+      "latestValue": 29,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "545772e4-1762-4af7-9fc6-7f92de1018a8",
+      "objectId": 1139,
+      "name": "111 - Am Schloss Gottesaue - Schlachthausstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/545772e4-1762-4af7-9fc6-7f92de1018a8.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077058171,
+      "latestValue": 27,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "8266bd44-9d0b-45dd-9912-c49dd7b1a35b",
+      "objectId": 1173,
+      "name": "112 - Alter Schlachthof",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/8266bd44-9d0b-45dd-9912-c49dd7b1a35b.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077246283,
+      "latestValue": 27.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e97f0378-7d2c-471a-926a-f8758f4a9833",
+      "objectId": 1166,
+      "name": "114 - Stuttgarter Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/e97f0378-7d2c-471a-926a-f8758f4a9833.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077256703,
+      "latestValue": 27.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "ace99d40-aa1c-4961-b884-553d242087f9",
+      "objectId": 1193,
+      "name": "115 - Rueppurer Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/ace99d40-aa1c-4961-b884-553d242087f9.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077325755,
+      "latestValue": 28.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "cb5264f2-fd06-472c-b1de-3aacd878f4b3",
+      "objectId": 1710,
+      "name": "116 - Breite Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/cb5264f2-fd06-472c-b1de-3aacd878f4b3.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076909893,
+      "latestValue": 26.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e6bc8fc1-8891-4844-b926-8889ab05e35a",
+      "objectId": 1369,
+      "name": "118 - Kreuzung Klauprechtstrasse - Boeckhstrasse 26",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/e6bc8fc1-8891-4844-b926-8889ab05e35a.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076510648,
+      "latestValue": 29.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "f1e2d2a1-1b17-4a93-9abe-77ebae727788",
+      "objectId": 1157,
+      "name": "120 - Weinbrennerplatz - Kriegsstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/f1e2d2a1-1b17-4a93-9abe-77ebae727788.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077145359,
+      "latestValue": 27.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "50a1143a-8f89-4a1c-9489-3f7b950ed652",
+      "objectId": 2322,
+      "name": "123 - SP - Haydnplatz - Noerdliche Hildapromenade",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/50a1143a-8f89-4a1c-9489-3f7b950ed652.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076924022,
+      "latestValue": 27.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "467c508a-e742-4b35-99ec-8b67d890a39a",
+      "objectId": 1137,
+      "name": "124 - SP - Haydnplatz 3",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/467c508a-e742-4b35-99ec-8b67d890a39a.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077073323,
+      "latestValue": 29.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "37d021ae-001c-4a6c-a42f-dd539c112f5a",
+      "objectId": 1176,
+      "name": "126 - SG - Citypark",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/37d021ae-001c-4a6c-a42f-dd539c112f5a.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077307621,
+      "latestValue": 27.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "61f7dc99-d77e-4d1b-8a5e-5cfbcd6544f8",
+      "objectId": 1179,
+      "name": "128 - Kreuzung Klara Siebert Strasse - Rahel-Straus Strasse ",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/61f7dc99-d77e-4d1b-8a5e-5cfbcd6544f8.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077269669,
+      "latestValue": 28.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "edf219f9-5830-4ba2-9dea-cadfc42796f8",
+      "objectId": 1191,
+      "name": "132 - Wasserwerkstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/edf219f9-5830-4ba2-9dea-cadfc42796f8.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077331111,
+      "latestValue": 24.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "6dea6850-a817-4b6c-9cfb-26262591ee91",
+      "objectId": 1153,
+      "name": "133 - Kreuzung Dieselstrasse - Ottostrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/6dea6850-a817-4b6c-9cfb-26262591ee91.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077120644,
+      "latestValue": 27.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "0e559d0d-984a-4013-a703-980e1312040b",
+      "objectId": 1128,
+      "name": "134 - Kreuzung Killisfeldstrasse - Auer Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/0e559d0d-984a-4013-a703-980e1312040b.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076996555,
+      "latestValue": 27.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "572b2369-e351-4c30-a5fc-0f3939aa41ad",
+      "objectId": 1174,
+      "name": "135 - Horbenloch",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/572b2369-e351-4c30-a5fc-0f3939aa41ad.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077266927,
+      "latestValue": 24.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "25865bf9-41f8-453a-b44f-157901d81df0",
+      "objectId": 2327,
+      "name": "136 - Tiengener Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/25865bf9-41f8-453a-b44f-157901d81df0.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076936479,
+      "latestValue": 25.7,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "570b6db9-3c86-4d60-b29f-141d2fac5c9e",
+      "objectId": 1197,
+      "name": "137 - Am Viehweg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/570b6db9-3c86-4d60-b29f-141d2fac5c9e.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077396560,
+      "latestValue": 22.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "f529829d-ede8-4df8-ab71-cb7f5bf13b69",
+      "objectId": 1196,
+      "name": "139 - Unterer Lichtenbergweg 7",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/f529829d-ede8-4df8-ab71-cb7f5bf13b69.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077383704,
+      "latestValue": 25.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "5621b46a-1ff4-4716-a1f7-d3e9d5cfc38d",
+      "objectId": 1189,
+      "name": "144 - Nesslerstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/5621b46a-1ff4-4716-a1f7-d3e9d5cfc38d.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077332748,
+      "latestValue": 24.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e5bd8c6e-103f-4d07-9e63-b5f76a84f20c",
+      "objectId": 1204,
+      "name": "145 - Vogelsang 9",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/e5bd8c6e-103f-4d07-9e63-b5f76a84f20c.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077401538,
+      "latestValue": 24.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "503b3653-0512-469d-823d-896fa9ea61ec",
+      "objectId": 1103,
+      "name": "146 - Tumberg - Reichardtstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/503b3653-0512-469d-823d-896fa9ea61ec.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077442838,
+      "latestValue": 27.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "9c2fad73-2e3c-4b72-8f58-f25e9b20013b",
+      "objectId": 1664,
+      "name": "147 - Bergwaldstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/9c2fad73-2e3c-4b72-8f58-f25e9b20013b.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077473346,
+      "latestValue": 25.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "cce185ce-bb16-49cb-8b82-7cc07bf277c1",
+      "objectId": 1185,
+      "name": "148 - Schlossplatz - Karlsburgstrasse an Bushaltestelle",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/cce185ce-bb16-49cb-8b82-7cc07bf277c1.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077299997,
+      "latestValue": 26.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a4db20fa-f07b-4c7e-bdc3-90d590ef0b5e",
+      "objectId": 1172,
+      "name": "152 - Ellmendinger Strasse - Grazer Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/a4db20fa-f07b-4c7e-bdc3-90d590ef0b5e.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077278472,
+      "latestValue": 26.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "ea78f1e5-4b4f-448c-a2c2-5c7f678d73ff",
+      "objectId": 1108,
+      "name": "154 - Zuendhuetle - Suedtangente",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/ea78f1e5-4b4f-448c-a2c2-5c7f678d73ff.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077448734,
+      "latestValue": 25.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "02770a9f-25d9-4edf-ab03-c77187b83fae",
+      "objectId": 1372,
+      "name": "155 - Steinkreuzstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/02770a9f-25d9-4edf-ab03-c77187b83fae.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077496584,
+      "latestValue": 26.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "f9eaabee-de9e-434f-a50a-cee11aaedad7",
+      "objectId": 1132,
+      "name": "158 - Wingertgasse  - Am Michelsberg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/f9eaabee-de9e-434f-a50a-cee11aaedad7.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077021168,
+      "latestValue": 24.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "20cb8fa0-8128-41a5-9615-d1b03c79ed63",
+      "objectId": 1218,
+      "name": "159 - Am Wetterbach 34",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/20cb8fa0-8128-41a5-9615-d1b03c79ed63.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077105405,
+      "latestValue": 24.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "7142a42a-3117-4cae-a9cf-083d0fa207a9",
+      "objectId": 1107,
+      "name": "160 - Wiesenstrasse -  Landesstrasse 623",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/7142a42a-3117-4cae-a9cf-083d0fa207a9.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077440810,
+      "latestValue": 21.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "3130b1da-f21c-4b5e-b860-a3a58984d6c8",
+      "objectId": 2823,
+      "name": "164 - Kleinsteinbacher Strasse 2",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/3130b1da-f21c-4b5e-b860-a3a58984d6c8.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782069080792,
+      "latestValue": 29,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "cc2ebbe0-a08f-443a-a2d5-c0ef95920f07",
+      "objectId": 1160,
+      "name": "165 - SP - Thomashofstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/cc2ebbe0-a08f-443a-a2d5-c0ef95920f07.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077185637,
+      "latestValue": 22,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "87f45eaa-bad5-4096-ad90-e6d81056934c",
+      "objectId": 1203,
+      "name": "165 - SP - Thomashofstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/87f45eaa-bad5-4096-ad90-e6d81056934c.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076830474,
+      "latestValue": 26.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "df542925-e587-4886-ba02-fec52dfcd842",
+      "objectId": 1169,
+      "name": "168 - Tiefentalstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/df542925-e587-4886-ba02-fec52dfcd842.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077196005,
+      "latestValue": 24.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "fa0d211f-3f9c-423c-a5ae-fd34424ab649",
+      "objectId": 1104,
+      "name": "170 - Elsa-Braendstroem-Strasse (Bergwald)",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/fa0d211f-3f9c-423c-a5ae-fd34424ab649.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077394949,
+      "latestValue": 27.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "9f27a36b-633e-4be5-84b9-b445aa0d5387",
+      "objectId": 1165,
+      "name": "171 - SP mit 13 - Zoologischer Garten - Lauterberg-Plattform",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/9f27a36b-633e-4be5-84b9-b445aa0d5387.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077232276,
+      "latestValue": 28.3,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "836952e2-1e16-4f5c-864f-471e0c6995f9",
+      "objectId": 2681,
+      "name": "173 - Schlossplatz 3 (Kreuzung Kronenstrasse)",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/836952e2-1e16-4f5c-864f-471e0c6995f9.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076958100,
+      "latestValue": 26.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "85d510b6-32d5-4027-943c-b7298f1a6ad9",
+      "objectId": 1199,
+      "name": "174 - Zwischen Grabener Allee und Fridrichstaler Allee",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/85d510b6-32d5-4027-943c-b7298f1a6ad9.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077370527,
+      "latestValue": 23.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "ffe8473c-3297-45fa-b32a-1d106d9a7f44",
+      "objectId": 1148,
+      "name": "175 - Erzbergerstrasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/ffe8473c-3297-45fa-b32a-1d106d9a7f44.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077101420,
+      "latestValue": 26.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "fe9634e5-ab39-4a56-a921-5548c9ef9708",
+      "objectId": 1147,
+      "name": "176 - Karl-Wolf-Weg",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/fe9634e5-ab39-4a56-a921-5548c9ef9708.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077085693,
+      "latestValue": 25.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "802121f8-a114-47dc-a4c4-fc81d02f49c6",
+      "objectId": 1112,
+      "name": "177 - Pfannkuchstrasse 15",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/802121f8-a114-47dc-a4c4-fc81d02f49c6.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077488722,
+      "latestValue": 27.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "48233b74-7e23-4e7c-b302-1df6fe03f0a2",
+      "objectId": 1134,
+      "name": "178 - Hardeckstrasse - Bahnhof Karlsruhe West",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/48233b74-7e23-4e7c-b302-1df6fe03f0a2.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077047836,
+      "latestValue": 28.4,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "99969ac9-746e-44e4-b40e-9799421f22db",
+      "objectId": 1155,
+      "name": "179 - Karpatenstrasse 14",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/99969ac9-746e-44e4-b40e-9799421f22db.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077147383,
+      "latestValue": 26,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "07c22558-10ba-4ce3-9a5e-8005acd88280",
+      "objectId": 1214,
+      "name": "181 - Rintheimer Hauptstrasse 105",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/07c22558-10ba-4ce3-9a5e-8005acd88280.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077298330,
+      "latestValue": 25.8,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "1be9518c-235e-49a1-aaa1-25f874690b14",
+      "objectId": 2389,
+      "name": "182 - Theodor-Heuss-Allee - Kreuzung Insterburger-Strasse",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/1be9518c-235e-49a1-aaa1-25f874690b14.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076454921,
+      "latestValue": 22.9,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "f853bdd1-153d-46e1-908b-dec1fa7798a7",
+      "objectId": 1110,
+      "name": "183 - Suedwestliche Ecke - Alter Flugplatz",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/f853bdd1-153d-46e1-908b-dec1fa7798a7.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077438636,
+      "latestValue": 26.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "5e1cb6b7-724c-4952-adc3-f945fb8abe02",
+      "objectId": 2807,
+      "name": "Alte Karlsruher Str. (Autobahnpolizei)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/5e1cb6b7-724c-4952-adc3-f945fb8abe02.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782061898810,
+      "latestValue": 80,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "dc392f24-3f5a-41ea-9d82-8187d6606158",
+      "objectId": 2806,
+      "name": "Auer Str./Oberwaldstr. (Gehweg bei Ampel)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/dc392f24-3f5a-41ea-9d82-8187d6606158.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076041241,
+      "latestValue": 31,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "99606c20-30b6-4f42-afa8-991243c0232b",
+      "objectId": 2808,
+      "name": "Auf den Lohn Nr. 8 â 10",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/99606c20-30b6-4f42-afa8-991243c0232b.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782040346963,
+      "latestValue": 33,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a91e3afa-3002-41b7-a34b-96121ac07a62",
+      "objectId": 2750,
+      "name": "August-Duerr-Str./Renckstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/a91e3afa-3002-41b7-a34b-96121ac07a62.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782077386957,
+      "latestValue": 38,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "154d4cc3-1498-4d67-bc13-d4f1bfe51715",
+      "objectId": 2508,
+      "name": "B3 /Max-Liebermann-Str. (bei Bushaltestelle)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/154d4cc3-1498-4d67-bc13-d4f1bfe51715.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076081792,
+      "latestValue": 100,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "c6e75872-c0b0-4e0d-90d6-020681daadc5",
+      "objectId": 1194,
+      "name": "Barani (MeteoRain IoT Pro) %5BAC1F09FFFE0E25FC%5D",
+      "category": "Regenschreiber",
+      "path": "data/sensors/regenschreiber/c6e75872-c0b0-4e0d-90d6-020681daadc5.json",
+      "fields": [
+        "clicks"
+      ],
+      "latestTimestamp": 1782077402280,
+      "latestValue": 928,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "4ac74c30-4378-4182-86cb-f1e552d8f8fb",
+      "objectId": 2757,
+      "name": "Barani MeteoRain IoT - 2303LR002 - Gruenwettersbach",
+      "category": "Regenschreiber",
+      "path": "data/sensors/regenschreiber/4ac74c30-4378-4182-86cb-f1e552d8f8fb.json",
+      "fields": [
+        "clicks"
+      ],
+      "latestTimestamp": 1782071506552,
+      "latestValue": 850,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "01aa1811-2387-4e46-b427-b3c669d27227",
+      "objectId": 2608,
+      "name": "Berckmuellerstr / Theodor-Rehbock-Str.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/01aa1811-2387-4e46-b427-b3c669d27227.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074197937,
+      "latestValue": 98,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a9226e35-c30d-4469-875f-9550722a213a",
+      "objectId": 2614,
+      "name": "Bilfinger Str, bei Nr. 2",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/a9226e35-c30d-4469-875f-9550722a213a.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074869953,
+      "latestValue": 53,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a399a610-a147-440f-9cf9-c105351f3ef9",
+      "objectId": 2813,
+      "name": "Blotterstr. / Christofstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/a399a610-a147-440f-9cf9-c105351f3ef9.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782075114909,
+      "latestValue": 51,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "37179c7e-8261-4a72-b85a-a9d7cd79a6fd",
+      "objectId": 2809,
+      "name": "Blumentorstr. 21 (ggn. HL-Markt, Parkplatz)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/37179c7e-8261-4a72-b85a-a9d7cd79a6fd.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782077123704,
+      "latestValue": 69,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "da457bd9-26c9-4e43-a626-8aa537d25539",
+      "objectId": 2618,
+      "name": "Breite Str./Marie-Alexandra-Str.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/da457bd9-26c9-4e43-a626-8aa537d25539.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782075494739,
+      "latestValue": 33,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "7b4692f6-f8cc-417c-baee-c2933956ba93",
+      "objectId": 2613,
+      "name": "Bruehlstr. / Grenzstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/7b4692f6-f8cc-417c-baee-c2933956ba93.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074844131,
+      "latestValue": 85,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "4b8a3f36-8365-4cd7-86e3-56d9a752d245",
+      "objectId": 2538,
+      "name": "Dornwaldstr./Lortzingstr. ",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/4b8a3f36-8365-4cd7-86e3-56d9a752d245.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076513661,
+      "latestValue": 59,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "895ad3bf-82e0-4add-8a1b-ff025fcb7b5a",
+      "objectId": 2818,
+      "name": "Duerrbachstr./Posseltstr./Fechtstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/895ad3bf-82e0-4add-8a1b-ff025fcb7b5a.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782068643194,
+      "latestValue": 0,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e1efae3a-b8a4-4f78-9185-3d2decc3dcf4",
+      "objectId": 2816,
+      "name": "Ebertstr. 48 (bei REWE)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/e1efae3a-b8a4-4f78-9185-3d2decc3dcf4.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782071071029,
+      "latestValue": 57,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "7c5ff9ad-0dfb-4961-bf15-3894653ee8ad",
+      "objectId": 2821,
+      "name": "Ellmendinger Str./Ersinger Str. (Parkplatz)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/7c5ff9ad-0dfb-4961-bf15-3894653ee8ad.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074218284,
+      "latestValue": 78,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "395d504a-70eb-4788-b948-640783106c74",
+      "objectId": 2817,
+      "name": "Ellmendinger Str./Reichenbachstr. (Edeka)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/395d504a-70eb-4788-b948-640783106c74.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782075059859,
+      "latestValue": 62,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "9a2313d1-6229-4c57-8434-214345e2d296",
+      "objectId": 2780,
+      "name": "Gebhardstr. 44 (ggn. St. Michaelskirche)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/9a2313d1-6229-4c57-8434-214345e2d296.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782077300469,
+      "latestValue": 31,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "7f18567e-b9fc-4bff-a168-c08734c992b5",
+      "objectId": 2770,
+      "name": "Geigersbergstr./Bergwaldstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/7f18567e-b9fc-4bff-a168-c08734c992b5.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782068783044,
+      "latestValue": 31,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "ae034f41-c5bd-4fb0-97c3-02608da734ab",
+      "objectId": 1206,
+      "name": "Gemeinschaftsgarten",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/ae034f41-c5bd-4fb0-97c3-02608da734ab.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782077378085,
+      "latestValue": 26.2,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "20278ff3-4b52-4639-baa4-1c01a34077a1",
+      "objectId": 2761,
+      "name": "Grenzstr. / Kaerntner Str.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/20278ff3-4b52-4639-baa4-1c01a34077a1.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782065745456,
+      "latestValue": 64,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "66f12bf8-768a-483a-8f23-926c6ce8941c",
+      "objectId": 2814,
+      "name": "Gritznerstr./Kanzler Str. (bei AOK)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/66f12bf8-768a-483a-8f23-926c6ce8941c.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782064486482,
+      "latestValue": 0,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "1f6f2029-9e79-442d-b75e-b6a3133be829",
+      "objectId": 2796,
+      "name": "Im Saeuterich/Hauerlandstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/1f6f2029-9e79-442d-b75e-b6a3133be829.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782071967310,
+      "latestValue": 29,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "88d4b3ea-ae5c-474c-9d61-6dd3b9bbc1cd",
+      "objectId": 2723,
+      "name": "In der Tasch/Rittnertstr. ",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/88d4b3ea-ae5c-474c-9d61-6dd3b9bbc1cd.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074508242,
+      "latestValue": 0,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "e490144a-6a5e-4d0f-9a6c-9c19a038ba6f",
+      "objectId": 2612,
+      "name": "Kanzlerstr. (Parkplatz bei Festhalle)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/e490144a-6a5e-4d0f-9a6c-9c19a038ba6f.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074705724,
+      "latestValue": 95,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "9e9468d5-9eee-4581-8aa0-01c48afe571d",
+      "objectId": 2812,
+      "name": "Karlstr./Gartenstr. (Linker Cont.)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/9e9468d5-9eee-4581-8aa0-01c48afe571d.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074411285,
+      "latestValue": 88,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "7f710e8a-8f75-4792-b3a2-dd0fe86c47b9",
+      "objectId": 2819,
+      "name": "Karlstr./Gartenstr. (Rechter Cont.)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/7f710e8a-8f75-4792-b3a2-dd0fe86c47b9.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074192184,
+      "latestValue": 0,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "94c9cde6-f03f-497c-ae60-c4470bea38a8",
+      "objectId": 2811,
+      "name": "Liebensteinstr./Groetzinger Str.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/94c9cde6-f03f-497c-ae60-c4470bea38a8.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782070360609,
+      "latestValue": 58,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "370727dd-fb2c-4527-9643-dacd9324dc78",
+      "objectId": 2774,
+      "name": "Lorenzstr./Roemhildstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/370727dd-fb2c-4527-9643-dacd9324dc78.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782075756469,
+      "latestValue": 94,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "2cf4f75a-5426-47a6-923a-39b31f510279",
+      "objectId": 2785,
+      "name": "Maybachstr. Linker Container",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/2cf4f75a-5426-47a6-923a-39b31f510279.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782075832513,
+      "latestValue": 0,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "94fa6329-09aa-4af4-b23d-ccefb1e99d77",
+      "objectId": 2619,
+      "name": "Maybachstr. Mittlerer Container",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/94fa6329-09aa-4af4-b23d-ccefb1e99d77.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782075521979,
+      "latestValue": 75,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "81368669-977b-46b3-b53e-e57df849bead",
+      "objectId": 2510,
+      "name": "Maybachstr. Rechter Container",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/81368669-977b-46b3-b53e-e57df849bead.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076483481,
+      "latestValue": 100,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "109",
+      "objectId": 2804,
+      "name": "Messstelle Berghausen / Pfinz (HVZ/RP Karlsruhe)",
+      "category": "Wasserpegel-Sensor",
+      "path": "data/sensors/wasserpegel-sensor/109.json",
+      "fields": [
+        "pegel"
+      ],
+      "latestTimestamp": 1782073800000,
+      "latestValue": 29.3,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "110",
+      "objectId": 2805,
+      "name": "Messstelle Ettlingen / Alb (HVZ/RP Karlsruhe)",
+      "category": "Wasserpegel-Sensor",
+      "path": "data/sensors/wasserpegel-sensor/110.json",
+      "fields": [
+        "pegel"
+      ],
+      "latestTimestamp": 1782073500000,
+      "latestValue": 36.5,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "9016",
+      "objectId": 2803,
+      "name": "Messstelle Maxau / Rhein (HVZ/WSA Oberrhein)",
+      "category": "Wasserpegel-Sensor",
+      "path": "data/sensors/wasserpegel-sensor/9016.json",
+      "fields": [
+        "pegel"
+      ],
+      "latestTimestamp": 1782072900000,
+      "latestValue": 407,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "49651f8b-f025-43f6-bae0-777265936594",
+      "objectId": 2691,
+      "name": "Ostmarkstr. / Im Saeuterich",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/49651f8b-f025-43f6-bae0-777265936594.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782064962874,
+      "latestValue": 79,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "6a4e8612-b443-4515-b380-ef6949c8a5fd",
+      "objectId": 2520,
+      "name": "Parkstr. / Am Fasanengarten",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/6a4e8612-b443-4515-b380-ef6949c8a5fd.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076623108,
+      "latestValue": 100,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "1a6b4232-c456-4d42-8e69-76468a52890b",
+      "objectId": 2790,
+      "name": "Pforzheimer Str./Toepferweg",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/1a6b4232-c456-4d42-8e69-76468a52890b.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076748748,
+      "latestValue": 58,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "5a0044df-4137-45df-b972-569b6fa68329",
+      "objectId": 2606,
+      "name": "Schinnrainstr. (bei der Tafel )",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/5a0044df-4137-45df-b972-569b6fa68329.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782073936488,
+      "latestValue": 83,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "6720b2c5-f0c1-45aa-b6ad-0073edbc885c",
+      "objectId": 2822,
+      "name": "Schlesierstr./Karpatenstr. Linker Cont.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/6720b2c5-f0c1-45aa-b6ad-0073edbc885c.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782065149519,
+      "latestValue": 22,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "c53c6806-9443-4b58-987c-ea4e7f7e3f30",
+      "objectId": 2810,
+      "name": "Schlesierstr./Karpatenstr. Rechter Cont.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/c53c6806-9443-4b58-987c-ea4e7f7e3f30.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782077142818,
+      "latestValue": 36,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "097756cc-668a-46c3-a267-5c4a2e22726e",
+      "objectId": 2764,
+      "name": "SenseCap ECE (90) ",
+      "category": "Boden-Sensor",
+      "path": "data/sensors/boden-sensor/097756cc-668a-46c3-a267-5c4a2e22726e.json",
+      "fields": [
+        "bodenfeuchte"
+      ],
+      "latestTimestamp": 1782069155822,
+      "latestValue": 26.1,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "8fcde1bc-ad52-40fb-8ae5-4a4dc6aabc9b",
+      "objectId": 2815,
+      "name": "SenseCap LBB (60) ",
+      "category": "Boden-Sensor",
+      "path": "data/sensors/boden-sensor/8fcde1bc-ad52-40fb-8ae5-4a4dc6aabc9b.json",
+      "fields": [
+        "bodenfeuchte"
+      ],
+      "latestTimestamp": 1782075942755,
+      "latestValue": 7.6,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a5264163-f9df-4995-9b35-0649e4119c85",
+      "objectId": 2324,
+      "name": "Sonnenbad",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/a5264163-f9df-4995-9b35-0649e4119c85.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782076929475,
+      "latestValue": 27,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "3c0237c8-ccb6-4828-b06e-db69dc4a4ccc",
+      "objectId": 2820,
+      "name": "Waldshuter Str./Hubstr.",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/3c0237c8-ccb6-4828-b06e-db69dc4a4ccc.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782077418824,
+      "latestValue": 0,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "439e0149-08cd-40cc-91ef-c4a935299a3b",
+      "objectId": 2793,
+      "name": "Wartburgstr./Hohenzollernstr. (Linker Cont.)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/439e0149-08cd-40cc-91ef-c4a935299a3b.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782074588198,
+      "latestValue": 100,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    },
+    {
+      "deviceId": "a25ea29f-eec3-43ad-9678-1f4cdcab0444",
+      "objectId": 2654,
+      "name": "Wartburgstr./Hohenzollernstr. (Rechter Cont.)",
+      "category": "TSK-Container",
+      "path": "data/sensors/tsk-container/a25ea29f-eec3-43ad-9678-1f4cdcab0444.json",
+      "fields": [
+        "fillinglvl_percent"
+      ],
+      "latestTimestamp": 1782076688714,
+      "latestValue": 38,
+      "updatedAt": "2026-06-21T21:31:46.004Z"
+    }
+  ]
+}

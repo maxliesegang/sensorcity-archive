@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2813,
+    "deviceId": "a399a610-a147-440f-9cf9-c105351f3ef9",
+    "name": "Blotterstr. / Christofstr.",
+    "category": "TSK-Container",
+    "lat": 48.999777,
+    "lon": 8.461141
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782075114909, 51]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

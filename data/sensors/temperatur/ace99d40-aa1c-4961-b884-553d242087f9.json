@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1193,
+    "deviceId": "ace99d40-aa1c-4961-b884-553d242087f9",
+    "name": "115 - Rueppurer Strasse",
+    "category": "Temperatur",
+    "lat": 49.00033356000006,
+    "lon": 8.410725876000072
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077325755, 28.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

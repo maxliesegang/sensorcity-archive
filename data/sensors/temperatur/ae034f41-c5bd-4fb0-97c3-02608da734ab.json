@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1206,
+    "deviceId": "ae034f41-c5bd-4fb0-97c3-02608da734ab",
+    "name": "Gemeinschaftsgarten",
+    "category": "Temperatur",
+    "lat": 49.01317100000006,
+    "lon": 8.437978000000044
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077378085, 26.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

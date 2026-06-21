@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1200,
+    "deviceId": "7417ed1a-57d6-43dc-a21e-63b831c882c4",
+    "name": "007 - Weiherfeldstrasse",
+    "category": "Temperatur",
+    "lat": 48.98894800000005,
+    "lon": 8.382984000000022
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077408398, 25.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

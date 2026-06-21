@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1178,
+    "deviceId": "39a237f7-e8bb-4884-a85b-33c61daf8535",
+    "name": "080 - Schwetzinger Strasse",
+    "category": "Temperatur",
+    "lat": 49.036922480000044,
+    "lon": 8.460583118000045
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077266046, 23.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

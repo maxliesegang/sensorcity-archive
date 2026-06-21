@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2809,
+    "deviceId": "37179c7e-8261-4a72-b85a-a9d7cd79a6fd",
+    "name": "Blumentorstr. 21 (ggn. HL-Markt, Parkplatz)",
+    "category": "TSK-Container",
+    "lat": 49.000751,
+    "lon": 8.474622
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077123704, 69]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

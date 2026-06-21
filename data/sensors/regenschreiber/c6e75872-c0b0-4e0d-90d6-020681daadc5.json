@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1194,
+    "deviceId": "c6e75872-c0b0-4e0d-90d6-020681daadc5",
+    "name": "Barani (MeteoRain IoT Pro) %5BAC1F09FFFE0E25FC%5D",
+    "category": "Regenschreiber",
+    "lat": 49.01317400000005,
+    "lon": 8.43797630000006
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "clicks",
+      "unit": "count",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077402280, 928]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

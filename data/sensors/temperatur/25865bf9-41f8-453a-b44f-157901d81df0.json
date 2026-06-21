@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2327,
+    "deviceId": "25865bf9-41f8-453a-b44f-157901d81df0",
+    "name": "136 - Tiengener Strasse",
+    "category": "Temperatur",
+    "lat": 49.00795845000005,
+    "lon": 8.480056365000053
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076936479, 25.7]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

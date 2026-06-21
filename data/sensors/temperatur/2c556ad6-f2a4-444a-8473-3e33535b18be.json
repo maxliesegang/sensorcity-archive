@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1154,
+    "deviceId": "2c556ad6-f2a4-444a-8473-3e33535b18be",
+    "name": "101 - SP - Kreuzung Kriegstrasse - Brauerstrasse",
+    "category": "Temperatur",
+    "lat": 49.00529816000005,
+    "lon": 8.386929407000025
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077162034, 29]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

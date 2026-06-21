@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2619,
+    "deviceId": "94fa6329-09aa-4af4-b23d-ccefb1e99d77",
+    "name": "Maybachstr. Mittlerer Container",
+    "category": "TSK-Container",
+    "lat": 48.998907,
+    "lon": 8.440246
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782075521979, 75]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

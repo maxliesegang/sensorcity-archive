@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2820,
+    "deviceId": "3c0237c8-ccb6-4828-b06e-db69dc4a4ccc",
+    "name": "Waldshuter Str./Hubstr.",
+    "category": "TSK-Container",
+    "lat": 49.003645,
+    "lon": 8.472284
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077418824, 0]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1128,
+    "deviceId": "0e559d0d-984a-4013-a703-980e1312040b",
+    "name": "134 - Kreuzung Killisfeldstrasse - Auer Strasse",
+    "category": "Temperatur",
+    "lat": 48.997399630000075,
+    "lon": 8.461935263000044
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076996555, 27.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

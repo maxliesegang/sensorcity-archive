@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1170,
+    "deviceId": "a66d43c4-d045-42cb-b084-15d5f8e5e8b0",
+    "name": "058 - Kaiserslauterner Strasse",
+    "category": "Temperatur",
+    "lat": 49.03522921000007,
+    "lon": 8.378948671000046
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077232878, 25.7]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

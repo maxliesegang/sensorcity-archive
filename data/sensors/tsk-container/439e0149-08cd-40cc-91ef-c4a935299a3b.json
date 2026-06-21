@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2793,
+    "deviceId": "439e0149-08cd-40cc-91ef-c4a935299a3b",
+    "name": "Wartburgstr./Hohenzollernstr. (Linker Cont.)",
+    "category": "TSK-Container",
+    "lat": 48.994029,
+    "lon": 8.385474
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782074588198, 100]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

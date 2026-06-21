@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2815,
+    "deviceId": "8fcde1bc-ad52-40fb-8ae5-4a4dc6aabc9b",
+    "name": "SenseCap LBB (60) ",
+    "category": "Boden-Sensor",
+    "lat": 49.007730139000046,
+    "lon": 8.40015233400004
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "bodenfeuchte",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782075942755, 7.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

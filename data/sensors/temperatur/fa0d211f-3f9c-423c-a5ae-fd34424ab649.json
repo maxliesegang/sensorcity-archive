@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1104,
+    "deviceId": "fa0d211f-3f9c-423c-a5ae-fd34424ab649",
+    "name": "170 - Elsa-Braendstroem-Strasse (Bergwald)",
+    "category": "Temperatur",
+    "lat": 48.97157811000005,
+    "lon": 8.468165484000053
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077394949, 27.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

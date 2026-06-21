@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1110,
+    "deviceId": "f853bdd1-153d-46e1-908b-dec1fa7798a7",
+    "name": "183 - Suedwestliche Ecke - Alter Flugplatz",
+    "category": "Temperatur",
+    "lat": 49.02121200000005,
+    "lon": 8.375839000000042
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077438636, 26.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

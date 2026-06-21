@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1138,
+    "deviceId": "8d771f8c-0937-4965-b01b-3d98e6dc07e5",
+    "name": "106 - Kreuzung Waldhornstrasse - Kaiserstrasse",
+    "category": "Temperatur",
+    "lat": 49.009460130000036,
+    "lon": 8.410173930000042
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077070630, 29.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

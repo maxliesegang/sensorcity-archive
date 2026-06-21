@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1169,
+    "deviceId": "df542925-e587-4886-ba02-fec52dfcd842",
+    "name": "168 - Tiefentalstrasse",
+    "category": "Temperatur",
+    "lat": 48.968480440000064,
+    "lon": 8.47818611200006
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077196005, 24.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

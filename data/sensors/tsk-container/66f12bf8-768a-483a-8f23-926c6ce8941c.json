@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2814,
+    "deviceId": "66f12bf8-768a-483a-8f23-926c6ce8941c",
+    "name": "Gritznerstr./Kanzler Str. (bei AOK)",
+    "category": "TSK-Container",
+    "lat": 48.998651,
+    "lon": 8.464828
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782064486482, 0]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

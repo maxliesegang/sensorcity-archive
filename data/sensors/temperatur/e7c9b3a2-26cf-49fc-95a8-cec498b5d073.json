@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2697,
+    "deviceId": "e7c9b3a2-26cf-49fc-95a8-cec498b5d073",
+    "name": "102 - SP - Gartenstrasse",
+    "category": "Temperatur",
+    "lat": 49.00438930000007,
+    "lon": 8.38850392200004
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076968710, 28.7]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

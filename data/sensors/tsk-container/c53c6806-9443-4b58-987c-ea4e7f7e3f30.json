@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2810,
+    "deviceId": "c53c6806-9443-4b58-987c-ea4e7f7e3f30",
+    "name": "Schlesierstr./Karpatenstr. Rechter Cont.",
+    "category": "TSK-Container",
+    "lat": 48.988369,
+    "lon": 8.451814
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077142818, 36]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

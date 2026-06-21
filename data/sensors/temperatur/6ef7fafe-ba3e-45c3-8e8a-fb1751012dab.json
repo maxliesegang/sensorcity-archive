@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1167,
+    "deviceId": "6ef7fafe-ba3e-45c3-8e8a-fb1751012dab",
+    "name": "051 - Baerenweg",
+    "category": "Temperatur",
+    "lat": 49.04195800000008,
+    "lon": 8.384855000000073
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077244154, 25.5]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

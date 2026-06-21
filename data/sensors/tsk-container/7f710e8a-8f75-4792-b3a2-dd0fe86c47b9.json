@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2819,
+    "deviceId": "7f710e8a-8f75-4792-b3a2-dd0fe86c47b9",
+    "name": "Karlstr./Gartenstr. (Rechter Cont.)",
+    "category": "TSK-Container",
+    "lat": 49.004497,
+    "lon": 8.394241
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782074192184, 0]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

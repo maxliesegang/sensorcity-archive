@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1131,
+    "deviceId": "5d93192b-6385-401c-888f-f386d42c2808",
+    "name": "066 - Tennesseeallee",
+    "category": "Temperatur",
+    "lat": 49.02641520000003,
+    "lon": 8.390451600000063
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077013178, 25.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

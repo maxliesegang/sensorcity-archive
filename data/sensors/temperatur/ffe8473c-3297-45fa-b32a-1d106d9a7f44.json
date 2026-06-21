@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1148,
+    "deviceId": "ffe8473c-3297-45fa-b32a-1d106d9a7f44",
+    "name": "175 - Erzbergerstrasse",
+    "category": "Temperatur",
+    "lat": 49.029216000000076,
+    "lon": 8.386408000000074
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077101420, 26.5]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

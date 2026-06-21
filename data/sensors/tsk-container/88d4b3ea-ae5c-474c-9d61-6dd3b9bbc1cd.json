@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2723,
+    "deviceId": "88d4b3ea-ae5c-474c-9d61-6dd3b9bbc1cd",
+    "name": "In der Tasch/Rittnertstr. ",
+    "category": "TSK-Container",
+    "lat": 48.991248,
+    "lon": 8.488501
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782074508242, 0]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

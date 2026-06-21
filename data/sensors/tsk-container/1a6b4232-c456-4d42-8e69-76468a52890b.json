@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2790,
+    "deviceId": "1a6b4232-c456-4d42-8e69-76468a52890b",
+    "name": "Pforzheimer Str./Toepferweg",
+    "category": "TSK-Container",
+    "lat": 49.003315,
+    "lon": 8.469086
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076748748, 58]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

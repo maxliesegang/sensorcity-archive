@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1185,
+    "deviceId": "cce185ce-bb16-49cb-8b82-7cc07bf277c1",
+    "name": "148 - Schlossplatz - Karlsburgstrasse an Bushaltestelle",
+    "category": "Temperatur",
+    "lat": 48.999095890000035,
+    "lon": 8.474509449000038
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077299997, 26.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

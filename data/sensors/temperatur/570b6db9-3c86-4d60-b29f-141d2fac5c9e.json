@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1197,
+    "deviceId": "570b6db9-3c86-4d60-b29f-141d2fac5c9e",
+    "name": "137 - Am Viehweg",
+    "category": "Temperatur",
+    "lat": 49.026362120000044,
+    "lon": 8.494249483000033
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077396560, 22.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

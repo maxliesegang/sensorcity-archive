@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2389,
+    "deviceId": "1be9518c-235e-49a1-aaa1-25f874690b14",
+    "name": "182 - Theodor-Heuss-Allee - Kreuzung Insterburger-Strasse",
+    "category": "Temperatur",
+    "lat": 49.03693500000003,
+    "lon": 8.433470000000057
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076454921, 22.9]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

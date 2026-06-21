@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2805,
+    "deviceId": "110",
+    "name": "Messstelle Ettlingen / Alb (HVZ/RP Karlsruhe)",
+    "category": "Wasserpegel-Sensor",
+    "lat": 48.9466367,
+    "lon": 8.3985014
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "pegel",
+      "unit": "cm",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782073500000, 36.5]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

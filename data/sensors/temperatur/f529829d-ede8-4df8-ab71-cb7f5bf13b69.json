@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1196,
+    "deviceId": "f529829d-ede8-4df8-ab71-cb7f5bf13b69",
+    "name": "139 - Unterer Lichtenbergweg 7",
+    "category": "Temperatur",
+    "lat": 49.01031997000007,
+    "lon": 8.499544884000045
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077383704, 25.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

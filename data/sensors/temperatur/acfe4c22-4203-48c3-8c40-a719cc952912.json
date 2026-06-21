@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1202,
+    "deviceId": "acfe4c22-4203-48c3-8c40-a719cc952912",
+    "name": "021 - Kornweg 33",
+    "category": "Temperatur",
+    "lat": 49.00510770000005,
+    "lon": 8.340012000000058
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077397370, 24.9]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

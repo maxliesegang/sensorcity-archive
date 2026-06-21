@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1112,
+    "deviceId": "802121f8-a114-47dc-a4c4-fc81d02f49c6",
+    "name": "177 - Pfannkuchstrasse 15",
+    "category": "Temperatur",
+    "lat": 49.01183100000003,
+    "lon": 8.348448000000076
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077488722, 27.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

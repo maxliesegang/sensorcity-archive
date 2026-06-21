@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1129,
+    "deviceId": "62a3625b-dfe6-4d0f-a684-243a3b273dc6",
+    "name": "013 - Bahnhofplatz 6",
+    "category": "Temperatur",
+    "lat": 48.99462200000005,
+    "lon": 8.400341000000026
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076987971, 27.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

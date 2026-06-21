@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1212,
+    "deviceId": "64f3b810-576b-4d69-87bc-425f6bdca9bb",
+    "name": "086 - Rintheimer Hauptstrasse",
+    "category": "Temperatur",
+    "lat": 49.01675600000004,
+    "lon": 8.447382594000032
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077139181, 26.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

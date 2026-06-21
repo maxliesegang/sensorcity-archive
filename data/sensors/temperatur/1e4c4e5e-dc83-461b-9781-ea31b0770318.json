@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1187,
+    "deviceId": "1e4c4e5e-dc83-461b-9781-ea31b0770318",
+    "name": "055 - Moldaustrasse",
+    "category": "Temperatur",
+    "lat": 49.04759148000005,
+    "lon": 8.396889156000043
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077332892, 26.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

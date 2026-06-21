@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1179,
+    "deviceId": "61f7dc99-d77e-4d1b-8a5e-5cfbcd6544f8",
+    "name": "128 - Kreuzung Klara Siebert Strasse - Rahel-Straus Strasse ",
+    "category": "Temperatur",
+    "lat": 49.00107977000005,
+    "lon": 8.41703906600003
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077269669, 28.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

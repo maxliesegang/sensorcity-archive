@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1165,
+    "deviceId": "9f27a36b-633e-4be5-84b9-b445aa0d5387",
+    "name": "171 - SP mit 13 - Zoologischer Garten - Lauterberg-Plattform",
+    "category": "Temperatur",
+    "lat": 48.996602550000034,
+    "lon": 8.402083326000024
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077232276, 28.3]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

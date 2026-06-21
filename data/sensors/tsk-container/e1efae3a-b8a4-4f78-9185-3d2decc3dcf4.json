@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2816,
+    "deviceId": "e1efae3a-b8a4-4f78-9185-3d2decc3dcf4",
+    "name": "Ebertstr. 48 (bei REWE)",
+    "category": "TSK-Container",
+    "lat": 48.995241,
+    "lon": 8.387579
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782071071029, 57]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

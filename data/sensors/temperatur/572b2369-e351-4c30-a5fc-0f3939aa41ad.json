@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1174,
+    "deviceId": "572b2369-e351-4c30-a5fc-0f3939aa41ad",
+    "name": "135 - Horbenloch",
+    "category": "Temperatur",
+    "lat": 48.97156177000005,
+    "lon": 8.444371132000072
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077266927, 24.7]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

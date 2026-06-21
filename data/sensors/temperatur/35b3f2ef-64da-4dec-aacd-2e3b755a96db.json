@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1164,
+    "deviceId": "35b3f2ef-64da-4dec-aacd-2e3b755a96db",
+    "name": "084 - Kreuzung Am Storrenacker - Printztrasse",
+    "category": "Temperatur",
+    "lat": 49.020050000000026,
+    "lon": 8.460128079000071
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077205700, 27]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

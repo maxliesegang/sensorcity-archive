@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1166,
+    "deviceId": "e97f0378-7d2c-471a-926a-f8758f4a9833",
+    "name": "114 - Stuttgarter Strasse",
+    "category": "Temperatur",
+    "lat": 48.99882135000007,
+    "lon": 8.41634939200003
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077256703, 27.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

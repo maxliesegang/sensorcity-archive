@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1143,
+    "deviceId": "57877931-8de9-4f4e-9ae0-f5669f4dc1cd",
+    "name": "059 - Wilhelm-Hausenstein-Allee - Kreuzung Landauer Strasse",
+    "category": "Temperatur",
+    "lat": 49.03062500000004,
+    "lon": 8.37035772300004
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077078534, 27.3]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

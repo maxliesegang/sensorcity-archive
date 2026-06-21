@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1175,
+    "deviceId": "12e7c058-297b-402a-8412-758aecf6873a",
+    "name": "004 - Brunnenstueckweg",
+    "category": "Temperatur",
+    "lat": 48.96734900000007,
+    "lon": 8.39362200000005
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077269505, 24.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

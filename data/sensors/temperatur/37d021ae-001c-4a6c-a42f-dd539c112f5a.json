@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1176,
+    "deviceId": "37d021ae-001c-4a6c-a42f-dd539c112f5a",
+    "name": "126 - SG - Citypark",
+    "category": "Temperatur",
+    "lat": 49.003008660000035,
+    "lon": 8.420204149000028
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077307621, 27.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

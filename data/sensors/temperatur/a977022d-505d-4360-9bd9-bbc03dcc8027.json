@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1663,
+    "deviceId": "a977022d-505d-4360-9bd9-bbc03dcc8027",
+    "name": "071 - Hagsfelder Allee - Fasanengarten",
+    "category": "Temperatur",
+    "lat": 49.01577290000006,
+    "lon": 8.41280645300003
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077464273, 24.3]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

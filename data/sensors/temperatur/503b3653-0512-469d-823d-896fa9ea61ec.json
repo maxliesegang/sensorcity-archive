@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1103,
+    "deviceId": "503b3653-0512-469d-823d-896fa9ea61ec",
+    "name": "146 - Tumberg - Reichardtstrasse",
+    "category": "Temperatur",
+    "lat": 48.99695400000007,
+    "lon": 8.484907280000073
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077442838, 27.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

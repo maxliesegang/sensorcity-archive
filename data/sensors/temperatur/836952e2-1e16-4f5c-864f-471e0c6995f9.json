@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2681,
+    "deviceId": "836952e2-1e16-4f5c-864f-471e0c6995f9",
+    "name": "173 - Schlossplatz 3 (Kreuzung Kronenstrasse)",
+    "category": "Temperatur",
+    "lat": 49.01128500000004,
+    "lon": 8.406802000000027
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076958100, 26.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

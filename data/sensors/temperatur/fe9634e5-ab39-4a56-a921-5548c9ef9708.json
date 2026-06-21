@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1147,
+    "deviceId": "fe9634e5-ab39-4a56-a921-5548c9ef9708",
+    "name": "176 - Karl-Wolf-Weg",
+    "category": "Temperatur",
+    "lat": 49.000500000000045,
+    "lon": 8.371705000000077
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077085693, 25.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

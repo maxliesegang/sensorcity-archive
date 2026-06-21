@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1199,
+    "deviceId": "85d510b6-32d5-4027-943c-b7298f1a6ad9",
+    "name": "174 - Zwischen Grabener Allee und Fridrichstaler Allee",
+    "category": "Temperatur",
+    "lat": 49.019457000000045,
+    "lon": 8.407785000000047
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077370527, 23.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

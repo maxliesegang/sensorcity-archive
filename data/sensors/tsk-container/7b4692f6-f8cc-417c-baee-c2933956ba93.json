@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2613,
+    "deviceId": "7b4692f6-f8cc-417c-baee-c2933956ba93",
+    "name": "Bruehlstr. / Grenzstr.",
+    "category": "TSK-Container",
+    "lat": 48.991909,
+    "lon": 8.464591
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782074844131, 85]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

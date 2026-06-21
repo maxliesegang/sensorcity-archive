@@ -1,0 +1,22 @@
+{
+  "name": "sensorcity-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Hourly JSON archive for Karlsruhe SensorCity primary sensor readings.",
+  "scripts": {
+    "archive": "tsx src/index.ts",
+    "archive:all": "tsx src/index.ts --all-fields",
+    "rebuild": "tsx src/rebuild.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "npm run typecheck"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}

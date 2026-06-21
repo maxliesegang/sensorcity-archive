@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1710,
+    "deviceId": "cb5264f2-fd06-472c-b1de-3aacd878f4b3",
+    "name": "116 - Breite Strasse",
+    "category": "Temperatur",
+    "lat": 48.99156570000008,
+    "lon": 8.388713855000049
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076909893, 26.9]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

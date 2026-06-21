@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1162,
+    "deviceId": "18e15762-7804-4ca9-a0dc-8942a272f3e4",
+    "name": "023 - Am Rueppurer Schloss",
+    "category": "Temperatur",
+    "lat": 48.98075490000008,
+    "lon": 8.404488890000039
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077189691, 25.9]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

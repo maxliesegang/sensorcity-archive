@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2785,
+    "deviceId": "2cf4f75a-5426-47a6-923a-39b31f510279",
+    "name": "Maybachstr. Linker Container",
+    "category": "TSK-Container",
+    "lat": 48.998917,
+    "lon": 8.440199
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782075832513, 0]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

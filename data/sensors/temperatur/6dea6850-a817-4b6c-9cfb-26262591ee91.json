@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1153,
+    "deviceId": "6dea6850-a817-4b6c-9cfb-26262591ee91",
+    "name": "133 - Kreuzung Dieselstrasse - Ottostrasse",
+    "category": "Temperatur",
+    "lat": 48.99664338000008,
+    "lon": 8.44532147800004
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077120644, 27.5]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

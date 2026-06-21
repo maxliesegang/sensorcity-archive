@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1107,
+    "deviceId": "7142a42a-3117-4cae-a9cf-083d0fa207a9",
+    "name": "160 - Wiesenstrasse -  Landesstrasse 623",
+    "category": "Temperatur",
+    "lat": 48.94993203000007,
+    "lon": 8.473162116000026
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077440810, 21.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

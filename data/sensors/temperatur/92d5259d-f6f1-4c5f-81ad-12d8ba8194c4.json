@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1182,
+    "deviceId": "92d5259d-f6f1-4c5f-81ad-12d8ba8194c4",
+    "name": "015 - Wilhelm-Leuschner-Strasse",
+    "category": "Temperatur",
+    "lat": 48.98397600000004,
+    "lon": 8.364297989000022
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077308667, 23.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

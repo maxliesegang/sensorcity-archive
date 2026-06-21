@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1108,
+    "deviceId": "ea78f1e5-4b4f-448c-a2c2-5c7f678d73ff",
+    "name": "154 - Zuendhuetle - Suedtangente",
+    "category": "Temperatur",
+    "lat": 48.98299806000006,
+    "lon": 8.459853286000055
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077448734, 25.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

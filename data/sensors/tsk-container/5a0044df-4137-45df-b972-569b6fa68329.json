@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2606,
+    "deviceId": "5a0044df-4137-45df-b972-569b6fa68329",
+    "name": "Schinnrainstr. (bei der Tafel )",
+    "category": "TSK-Container",
+    "lat": 48.999422,
+    "lon": 8.457373
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782073936488, 83]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

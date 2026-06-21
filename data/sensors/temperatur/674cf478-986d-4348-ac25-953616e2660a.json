@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1168,
+    "deviceId": "674cf478-986d-4348-ac25-953616e2660a",
+    "name": "097 - Moltkestrasse",
+    "category": "Temperatur",
+    "lat": 49.01514429000008,
+    "lon": 8.375301232000027
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077246159, 28.5]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

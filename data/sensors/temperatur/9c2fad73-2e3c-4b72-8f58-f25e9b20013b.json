@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1664,
+    "deviceId": "9c2fad73-2e3c-4b72-8f58-f25e9b20013b",
+    "name": "147 - Bergwaldstrasse",
+    "category": "Temperatur",
+    "lat": 48.98914544000007,
+    "lon": 8.479060766000032
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077473346, 25.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

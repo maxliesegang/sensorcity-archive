@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1146,
+    "deviceId": "7ceb0590-e2f0-4f9e-a3dc-5257a4729f57",
+    "name": "003 - Kreuzung Herrenalber Strasse - Battstrasse",
+    "category": "Temperatur",
+    "lat": 48.96613800000006,
+    "lon": 8.405139000000077
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077064707, 27.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

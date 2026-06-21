@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1192,
+    "deviceId": "845e2850-220c-45d0-880d-c8d3cd219dcd",
+    "name": "033 - Siemensallee - Sudetenstrasse",
+    "category": "Temperatur",
+    "lat": 49.03067838000004,
+    "lon": 8.344521100000065
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077321911, 27.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

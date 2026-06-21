@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1218,
+    "deviceId": "20cb8fa0-8128-41a5-9615-d1b03c79ed63",
+    "name": "159 - Am Wetterbach 34",
+    "category": "Temperatur",
+    "lat": 48.95838598000006,
+    "lon": 8.466726120000033
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077105405, 24.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1372,
+    "deviceId": "02770a9f-25d9-4edf-ab03-c77187b83fae",
+    "name": "155 - Steinkreuzstrasse",
+    "category": "Temperatur",
+    "lat": 48.975353280000036,
+    "lon": 8.455131853000069
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077496584, 26.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

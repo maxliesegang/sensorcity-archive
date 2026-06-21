@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1205,
+    "deviceId": "b969fb2e-c6ba-4261-80a7-4ccec7d53be1",
+    "name": "099 - Kreuzung Yorckstrasse - Sophienstrasse",
+    "category": "Temperatur",
+    "lat": 49.008548000000076,
+    "lon": 8.373533230000021
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077394175, 28.9]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

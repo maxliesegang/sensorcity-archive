@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1198,
+    "deviceId": "fd2bec2e-dd9a-4ec6-92eb-b66dcc9b902e",
+    "name": "081 - Karlsruher Strasse",
+    "category": "Temperatur",
+    "lat": 49.03071100000005,
+    "lon": 8.458518875000038
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077410453, 26.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

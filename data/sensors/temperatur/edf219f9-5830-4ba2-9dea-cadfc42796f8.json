@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1191,
+    "deviceId": "edf219f9-5830-4ba2-9dea-cadfc42796f8",
+    "name": "132 - Wasserwerkstrasse",
+    "category": "Temperatur",
+    "lat": 48.99221353000007,
+    "lon": 8.414458423000042
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077331111, 24.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

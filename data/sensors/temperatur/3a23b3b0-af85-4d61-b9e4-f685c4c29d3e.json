@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1177,
+    "deviceId": "3a23b3b0-af85-4d61-b9e4-f685c4c29d3e",
+    "name": "049 - Unterfeldstrasse - Haltestelle Baerenweg",
+    "category": "Temperatur",
+    "lat": 49.04701800000004,
+    "lon": 8.379109200000073
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077270598, 27.1]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

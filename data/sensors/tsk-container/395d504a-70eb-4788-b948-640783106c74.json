@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2817,
+    "deviceId": "395d504a-70eb-4788-b948-640783106c74",
+    "name": "Ellmendinger Str./Reichenbachstr. (Edeka)",
+    "category": "TSK-Container",
+    "lat": 48.994382,
+    "lon": 8.458683
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782075059859, 62]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

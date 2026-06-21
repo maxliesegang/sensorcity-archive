@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2691,
+    "deviceId": "49651f8b-f025-43f6-bae0-777265936594",
+    "name": "Ostmarkstr. / Im Saeuterich",
+    "category": "TSK-Container",
+    "lat": 48.992001,
+    "lon": 8.450806
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782064962874, 79]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

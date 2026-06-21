@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2654,
+    "deviceId": "a25ea29f-eec3-43ad-9678-1f4cdcab0444",
+    "name": "Wartburgstr./Hohenzollernstr. (Rechter Cont.)",
+    "category": "TSK-Container",
+    "lat": 48.994023,
+    "lon": 8.385535
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076688714, 38]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

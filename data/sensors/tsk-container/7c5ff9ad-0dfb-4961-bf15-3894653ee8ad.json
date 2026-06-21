@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2821,
+    "deviceId": "7c5ff9ad-0dfb-4961-bf15-3894653ee8ad",
+    "name": "Ellmendinger Str./Ersinger Str. (Parkplatz)",
+    "category": "TSK-Container",
+    "lat": 48.99335,
+    "lon": 8.45202
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782074218284, 78]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

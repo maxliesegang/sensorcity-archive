@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1163,
+    "deviceId": "f6551566-c2bd-427a-a300-fba7a1c81f06",
+    "name": "090 - Haid-und-Neustrasse",
+    "category": "Temperatur",
+    "lat": 49.02222000000006,
+    "lon": 8.446590860000072
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077222746, 25.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

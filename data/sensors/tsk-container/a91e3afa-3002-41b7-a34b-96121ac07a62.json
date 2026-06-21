@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2750,
+    "deviceId": "a91e3afa-3002-41b7-a34b-96121ac07a62",
+    "name": "August-Duerr-Str./Renckstr.",
+    "category": "TSK-Container",
+    "lat": 49.003269,
+    "lon": 8.396449
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077386957, 38]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

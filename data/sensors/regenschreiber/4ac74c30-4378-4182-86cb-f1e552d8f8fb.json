@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2757,
+    "deviceId": "4ac74c30-4378-4182-86cb-f1e552d8f8fb",
+    "name": "Barani MeteoRain IoT - 2303LR002 - Gruenwettersbach",
+    "category": "Regenschreiber",
+    "lat": 48.95130100000006,
+    "lon": 8.471813000000054
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "clicks",
+      "unit": "count",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782071506552, 850]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1188,
+    "deviceId": "4abb8f64-6eb0-43da-9bf1-4ec3be833dc8",
+    "name": "095 - Kreuzung Seldeneckstrasse - Tristanstrasse",
+    "category": "Temperatur",
+    "lat": 49.01435519000006,
+    "lon": 8.366296930000033
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077362406, 28.4]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

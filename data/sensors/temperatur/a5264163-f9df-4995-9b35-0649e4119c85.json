@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2324,
+    "deviceId": "a5264163-f9df-4995-9b35-0649e4119c85",
+    "name": "Sonnenbad",
+    "category": "Temperatur",
+    "lat": 49.01210100000003,
+    "lon": 8.34648100000004
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076929475, 27]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

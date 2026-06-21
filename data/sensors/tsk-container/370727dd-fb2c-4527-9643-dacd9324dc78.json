@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2774,
+    "deviceId": "370727dd-fb2c-4527-9643-dacd9324dc78",
+    "name": "Lorenzstr./Roemhildstr.",
+    "category": "TSK-Container",
+    "lat": 49.000204,
+    "lon": 8.382844
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782075756469, 94]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

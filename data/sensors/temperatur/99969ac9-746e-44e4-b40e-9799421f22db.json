@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1155,
+    "deviceId": "99969ac9-746e-44e4-b40e-9799421f22db",
+    "name": "179 - Karpatenstrasse 14",
+    "category": "Temperatur",
+    "lat": 48.98756300000008,
+    "lon": 8.450245000000052
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077147383, 26]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

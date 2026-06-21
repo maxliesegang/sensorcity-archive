@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2607,
+    "deviceId": "a919cdff-9880-4c87-a348-68d24cd20824",
+    "name": "027 - Rappenwoert - Endhaltestelle",
+    "category": "Temperatur",
+    "lat": 48.998546900000065,
+    "lon": 8.294803780000052
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782074656239, 24.6]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

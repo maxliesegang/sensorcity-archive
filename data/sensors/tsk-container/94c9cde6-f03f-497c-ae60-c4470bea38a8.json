@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2811,
+    "deviceId": "94c9cde6-f03f-497c-ae60-c4470bea38a8",
+    "name": "Liebensteinstr./Groetzinger Str.",
+    "category": "TSK-Container",
+    "lat": 49.001849,
+    "lon": 8.48156
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782070360609, 58]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

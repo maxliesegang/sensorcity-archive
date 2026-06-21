@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1139,
+    "deviceId": "545772e4-1762-4af7-9fc6-7f92de1018a8",
+    "name": "111 - Am Schloss Gottesaue - Schlachthausstrasse",
+    "category": "Temperatur",
+    "lat": 49.00378820000003,
+    "lon": 8.428466359000026
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077058171, 27]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

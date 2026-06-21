@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2808,
+    "deviceId": "99606c20-30b6-4f42-afa8-991243c0232b",
+    "name": "Auf den Lohn Nr. 8 â 10",
+    "category": "TSK-Container",
+    "lat": 48.993708,
+    "lon": 8.455311
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782040346963, 33]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

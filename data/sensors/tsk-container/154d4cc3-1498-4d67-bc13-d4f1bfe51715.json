@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2508,
+    "deviceId": "154d4cc3-1498-4d67-bc13-d4f1bfe51715",
+    "name": "B3 /Max-Liebermann-Str. (bei Bushaltestelle)",
+    "category": "TSK-Container",
+    "lat": 48.988025,
+    "lon": 8.46994
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076081792, 100]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

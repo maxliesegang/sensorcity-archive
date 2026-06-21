@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2325,
+    "deviceId": "dc831fce-75c5-40c0-bcbc-c2f082dbb4fb",
+    "name": "047 - Neureuter Hauptstrasse - Kreuzung Teutschneureuter Strasse",
+    "category": "Temperatur",
+    "lat": 49.05496410000006,
+    "lon": 8.381336060000024
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076921556, 26.2]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

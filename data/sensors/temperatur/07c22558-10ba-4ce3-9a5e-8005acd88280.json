@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1214,
+    "deviceId": "07c22558-10ba-4ce3-9a5e-8005acd88280",
+    "name": "181 - Rintheimer Hauptstrasse 105",
+    "category": "Temperatur",
+    "lat": 49.01723000000004,
+    "lon": 8.447550000000035
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077298330, 25.8]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

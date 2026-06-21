@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1171,
+    "deviceId": "c03a0e5a-f721-4b84-8fd6-ed79f0b00ce7",
+    "name": "046 - Unterer Dammweg",
+    "category": "Temperatur",
+    "lat": 49.06010640000005,
+    "lon": 8.386373000000049
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077253730, 24.7]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

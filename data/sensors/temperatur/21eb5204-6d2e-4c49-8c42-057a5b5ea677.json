@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 1135,
+    "deviceId": "21eb5204-6d2e-4c49-8c42-057a5b5ea677",
+    "name": "075 - Kreuzung Glogauer Strasse - Beuthener Strasse",
+    "category": "Temperatur",
+    "lat": 49.03393416000006,
+    "lon": 8.44433572500003
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "temp",
+      "unit": "degC",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782077033309, 25.7]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

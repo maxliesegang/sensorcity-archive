@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2520,
+    "deviceId": "6a4e8612-b443-4515-b380-ef6949c8a5fd",
+    "name": "Parkstr. / Am Fasanengarten",
+    "category": "TSK-Container",
+    "lat": 49.01329,
+    "lon": 8.422525
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782076623108, 100]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}

@@ -1,0 +1,26 @@
+{
+  "sensor": {
+    "objectId": 2761,
+    "deviceId": "20278ff3-4b52-4639-baa4-1c01a34077a1",
+    "name": "Grenzstr. / Kaerntner Str.",
+    "category": "TSK-Container",
+    "lat": 48.99246,
+    "lon": 8.463033
+  },
+  "source": {
+    "liveLayerId": 1,
+    "apiUrl": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer"
+  },
+  "fields": [
+    {
+      "name": "fillinglvl_percent",
+      "unit": "%",
+      "primary": true
+    }
+  ],
+  "readings": [
+    [1782065745456, 64]
+  ],
+  "createdAt": "2026-06-21T21:31:46.004Z",
+  "updatedAt": "2026-06-21T21:31:46.004Z"
+}
