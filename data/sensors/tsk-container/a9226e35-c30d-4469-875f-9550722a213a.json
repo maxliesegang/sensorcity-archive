@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2614,
+    "objectId": 2842,
     "deviceId": "a9226e35-c30d-4469-875f-9550722a213a",
     "name": "Bilfinger Str, bei Nr. 2",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782074869953, 53]
+    [1782074869953, 53],
+    [1782103663477, 52]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T05:31:36.572Z"
 }

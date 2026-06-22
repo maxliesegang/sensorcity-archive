@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2691,
+    "objectId": 2840,
     "deviceId": "49651f8b-f025-43f6-bae0-777265936594",
     "name": "Ostmarkstr. / Im Saeuterich",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782064962874, 79]
+    [1782064962874, 79],
+    [1782093755623, 92]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T05:31:36.572Z"
 }

@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2807,
+    "objectId": 2839,
     "deviceId": "5e1cb6b7-724c-4952-adc3-f945fb8abe02",
     "name": "Alte Karlsruher Str. (Autobahnpolizei)",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782061898810, 80]
+    [1782061898810, 80],
+    [1782105089574, 84]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T05:31:36.572Z"
 }

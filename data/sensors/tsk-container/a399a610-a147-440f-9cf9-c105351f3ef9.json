@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2813,
+    "objectId": 2835,
     "deviceId": "a399a610-a147-440f-9cf9-c105351f3ef9",
     "name": "Blotterstr. / Christofstr.",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782075114909, 51]
+    [1782075114909, 51],
+    [1782103908515, 52]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T05:31:36.572Z"
 }
