@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2816,
+    "objectId": 2846,
     "deviceId": "e1efae3a-b8a4-4f78-9185-3d2decc3dcf4",
     "name": "Ebertstr. 48 (bei REWE)",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782071071029, 57]
+    [1782071071029, 57],
+    [1782150254710, 59]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T18:33:53.315Z"
 }
