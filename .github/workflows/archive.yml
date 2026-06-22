@@ -2,7 +2,7 @@ name: Hourly SensorCity archive
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "43 * * * *"
   workflow_dispatch:
 
 permissions:
