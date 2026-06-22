@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2811,
+    "objectId": 2844,
     "deviceId": "94c9cde6-f03f-497c-ae60-c4470bea38a8",
     "name": "Liebensteinstr./Groetzinger Str.",
     "category": "TSK-Container",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782070360609, 58]
+    [1782070360609, 58],
+    [1782135146564, 56]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T14:16:02.448Z"
 }

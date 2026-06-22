@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2823,
+    "objectId": 2845,
     "deviceId": "3130b1da-f21c-4b5e-b860-a3a58984d6c8",
     "name": "164 - Kleinsteinbacher Strasse 2",
     "category": "Temperatur",
@@ -19,8 +19,9 @@
     }
   ],
   "readings": [
-    [1782069080792, 29]
+    [1782069080792, 29],
+    [1782136880574, 34.2]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-21T21:31:46.004Z"
+  "updatedAt": "2026-06-22T14:16:02.448Z"
 }
