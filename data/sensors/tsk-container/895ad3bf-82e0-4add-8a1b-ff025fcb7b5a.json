@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2841,
+    "objectId": 2850,
     "deviceId": "895ad3bf-82e0-4add-8a1b-ff025fcb7b5a",
     "name": "Duerrbachstr./Posseltstr./Fechtstr.",
     "category": "TSK-Container",
@@ -23,8 +23,9 @@
     [1782101036210, 0],
     [1782137029984, 0],
     [1782151427232, 0],
-    [1782162224604, 0]
+    [1782162224604, 0],
+    [1782169423487, 0]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-22T21:22:12.256Z"
+  "updatedAt": "2026-06-22T23:05:40.682Z"
 }
