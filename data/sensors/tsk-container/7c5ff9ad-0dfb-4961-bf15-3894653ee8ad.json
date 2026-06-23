@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2821,
+    "objectId": 2862,
     "deviceId": "7c5ff9ad-0dfb-4961-bf15-3894653ee8ad",
     "name": "Ellmendinger Str./Ersinger Str. (Parkplatz)",
     "category": "TSK-Container",
@@ -21,8 +21,9 @@
   "readings": [
     [1782074218284, 78],
     [1782085015641, 78],
-    [1782092214561, 78]
+    [1782092214561, 78],
+    [1782192992753, 79]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-22T05:31:36.572Z"
+  "updatedAt": "2026-06-23T05:50:10.926Z"
 }
