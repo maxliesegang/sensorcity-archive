@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T05:50:10.926Z",
-  "sensorCount": 142,
+  "updatedAt": "2026-06-23T10:22:24.239Z",
+  "sensorCount": 143,
   "sensors": [
     {
       "deviceId": "7ceb0590-e2f0-4f9e-a3dc-5257a4729f57",
@@ -11,9 +11,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782192862412,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209662051,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "12e7c058-297b-402a-8412-758aecf6873a",
@@ -24,9 +24,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193667953,
-      "latestValue": 23.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209867791,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "5709d661-984b-4d68-bea3-ffd0e8e114c7",
@@ -37,9 +37,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193488917,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209688655,
+      "latestValue": 32.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "7417ed1a-57d6-43dc-a21e-63b831c882c4",
@@ -50,9 +50,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193807210,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210007056,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "da9b5ec5-973b-47ff-a379-a4c3f1e6259e",
@@ -63,9 +63,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193674237,
-      "latestValue": 24.2,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209865475,
+      "latestValue": 31.1,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a70d98c2-bfe0-4060-9809-e17275b9e71b",
@@ -76,9 +76,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193303546,
-      "latestValue": 24.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210103348,
+      "latestValue": 32.1,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "62a3625b-dfe6-4d0f-a684-243a3b273dc6",
@@ -89,9 +89,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193385886,
-      "latestValue": 24.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209585576,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "d717247c-9f7f-42d4-aa19-744f50297ceb",
@@ -102,9 +102,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193396792,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209596525,
+      "latestValue": 31.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "92d5259d-f6f1-4c5f-81ad-12d8ba8194c4",
@@ -115,9 +115,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193708300,
-      "latestValue": 24.2,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209907428,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "d948a6fb-a619-419c-b96e-b7f3d4a00e85",
@@ -128,9 +128,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193510636,
-      "latestValue": 24.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209710344,
+      "latestValue": 32.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "d116cdf7-c2ee-459b-aa85-82a3a8458629",
@@ -141,9 +141,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193528800,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209728449,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "2c322042-2116-4e1e-95d1-a6980263dd49",
@@ -154,9 +154,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193423214,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209622945,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "acfe4c22-4203-48c3-8c40-a719cc952912",
@@ -167,9 +167,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193795788,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209995467,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "18e15762-7804-4ca9-a0dc-8942a272f3e4",
@@ -180,9 +180,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193588536,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209788349,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a919cdff-9880-4c87-a348-68d24cd20824",
@@ -193,9 +193,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782191055993,
-      "latestValue": 22.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782206655954,
+      "latestValue": 29.1,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "4baf6c69-41f2-4dc9-9022-732333c1a41b",
@@ -206,9 +206,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193491417,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209691274,
+      "latestValue": 30.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "845e2850-220c-45d0-880d-c8d3cd219dcd",
@@ -219,9 +219,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193719327,
-      "latestValue": 24.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209918952,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "8e201d37-51c1-4aee-80ff-cc9d775533f2",
@@ -232,9 +232,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193672758,
-      "latestValue": 25.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209872518,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "d0fa8ca0-6339-4e20-9d76-88e80c7af2c4",
@@ -245,9 +245,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193365233,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209564899,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "97289f50-ef55-4aed-8488-67807c4f7674",
@@ -258,9 +258,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193596644,
-      "latestValue": 25.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209796484,
+      "latestValue": 32.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "c03a0e5a-f721-4b84-8fd6-ed79f0b00ce7",
@@ -271,9 +271,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193652592,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209852438,
+      "latestValue": 31.1,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "dc831fce-75c5-40c0-bcbc-c2f082dbb4fb",
@@ -284,9 +284,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193320669,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210120533,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "3a23b3b0-af85-4d61-b9e4-f685c4c29d3e",
@@ -297,9 +297,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193668916,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209868684,
+      "latestValue": 31,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "6ef7fafe-ba3e-45c3-8e8a-fb1751012dab",
@@ -310,9 +310,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193633771,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209833554,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "1e4c4e5e-dc83-461b-9781-ea31b0770318",
@@ -323,9 +323,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782192531373,
-      "latestValue": 23.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209931137,
+      "latestValue": 32.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a66d43c4-d045-42cb-b084-15d5f8e5e8b0",
@@ -336,9 +336,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193630993,
-      "latestValue": 24.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209830724,
+      "latestValue": 31.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "57877931-8de9-4f4e-9ae0-f5669f4dc1cd",
@@ -349,9 +349,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193476627,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209676486,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "efa62401-319f-457a-a1ba-efa4e63321b0",
@@ -362,9 +362,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193350122,
-      "latestValue": 24.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209550029,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "5d93192b-6385-401c-888f-f386d42c2808",
@@ -375,9 +375,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193411331,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209610997,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "4c97b7d2-a3c8-4134-9698-3904c2745c72",
@@ -388,9 +388,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193747940,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209943895,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a977022d-505d-4360-9bd9-bbc03dcc8027",
@@ -401,9 +401,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193262538,
-      "latestValue": 23.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210062325,
+      "latestValue": 32.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "d7a32b1b-758a-4596-9b4b-0fd5ac5f38ed",
@@ -414,9 +414,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193501722,
-      "latestValue": 23.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209701594,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "21eb5204-6d2e-4c49-8c42-057a5b5ea677",
@@ -427,9 +427,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193431593,
-      "latestValue": 23.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209631347,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "39a237f7-e8bb-4884-a85b-33c61daf8535",
@@ -440,9 +440,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193663980,
-      "latestValue": 23.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209863648,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "fd2bec2e-dd9a-4ec6-92eb-b66dcc9b902e",
@@ -453,9 +453,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782192009489,
-      "latestValue": 22.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210009377,
+      "latestValue": 32.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "35b3f2ef-64da-4dec-aacd-2e3b755a96db",
@@ -466,9 +466,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193604341,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209804169,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "64f3b810-576b-4d69-87bc-425f6bdca9bb",
@@ -479,9 +479,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193536649,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209736327,
+      "latestValue": 32.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "f6551566-c2bd-427a-a300-fba7a1c81f06",
@@ -492,9 +492,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193622736,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209822741,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "5658d7a4-3bd1-4262-8c41-f0db27ad293a",
@@ -505,9 +505,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193554969,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209754819,
+      "latestValue": 32.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "4abb8f64-6eb0-43da-9bf1-4ec3be833dc8",
@@ -518,9 +518,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193761752,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209961678,
+      "latestValue": 32.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "674cf478-986d-4348-ac25-953616e2660a",
@@ -531,9 +531,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193644907,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209844750,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "b969fb2e-c6ba-4261-80a7-4ccec7d53be1",
@@ -544,9 +544,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193192289,
-      "latestValue": 24.2,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209992007,
+      "latestValue": 31.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "8df8b93f-cc43-4a4c-ae21-74da1e6afe70",
@@ -557,9 +557,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193383967,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209583919,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "2c556ad6-f2a4-444a-8473-3e33535b18be",
@@ -570,9 +570,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193560886,
-      "latestValue": 24.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209760685,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e7c9b3a2-26cf-49fc-95a8-cec498b5d073",
@@ -583,9 +583,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193367506,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209567320,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "63ce7efb-46ef-4b9f-b392-ea676a04fffb",
@@ -596,9 +596,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193501439,
-      "latestValue": 23.9,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209703479,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "64bf6306-c9f0-4e44-af9b-625bbf6d6ee9",
@@ -609,9 +609,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193568157,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209768311,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "8d771f8c-0937-4965-b01b-3d98e6dc07e5",
@@ -622,9 +622,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193469321,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209669112,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e9102a9b-fc11-4c90-b7f7-fc42debe0220",
@@ -635,9 +635,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193684784,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209884574,
+      "latestValue": 32,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "dac82f23-a9c4-4e03-bce9-f08aaef200e9",
@@ -648,9 +648,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193429263,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209624492,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "545772e4-1762-4af7-9fc6-7f92de1018a8",
@@ -661,9 +661,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193456286,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209655996,
+      "latestValue": 32.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "8266bd44-9d0b-45dd-9912-c49dd7b1a35b",
@@ -674,9 +674,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193644268,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209843948,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e97f0378-7d2c-471a-926a-f8758f4a9833",
@@ -687,9 +687,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193655898,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209855769,
+      "latestValue": 31.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "ace99d40-aa1c-4961-b884-553d242087f9",
@@ -700,9 +700,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193725521,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209922783,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "cb5264f2-fd06-472c-b1de-3aacd878f4b3",
@@ -713,9 +713,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193308845,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210108686,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e6bc8fc1-8891-4844-b926-8889ab05e35a",
@@ -726,9 +726,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193509187,
-      "latestValue": 24.2,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209708941,
+      "latestValue": 32.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "f1e2d2a1-1b17-4a93-9abe-77ebae727788",
@@ -739,9 +739,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193537940,
-      "latestValue": 24.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209737681,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "50a1143a-8f89-4a1c-9489-3f7b950ed652",
@@ -752,9 +752,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193322839,
-      "latestValue": 23.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209522614,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "467c508a-e742-4b35-99ec-8b67d890a39a",
@@ -765,9 +765,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193472716,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209672597,
+      "latestValue": 32.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "37d021ae-001c-4a6c-a42f-dd539c112f5a",
@@ -778,9 +778,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193700989,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209900934,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "61f7dc99-d77e-4d1b-8a5e-5cfbcd6544f8",
@@ -791,9 +791,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193667698,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209873199,
+      "latestValue": 32.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "edf219f9-5830-4ba2-9dea-cadfc42796f8",
@@ -804,9 +804,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193729010,
-      "latestValue": 23.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209928694,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "6dea6850-a817-4b6c-9cfb-26262591ee91",
@@ -817,9 +817,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193518341,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209718030,
+      "latestValue": 32,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "0e559d0d-984a-4013-a703-980e1312040b",
@@ -830,9 +830,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193395481,
-      "latestValue": 23.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209595287,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "572b2369-e351-4c30-a5fc-0f3939aa41ad",
@@ -843,9 +843,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193665510,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209865288,
+      "latestValue": 32.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "25865bf9-41f8-453a-b44f-157901d81df0",
@@ -856,9 +856,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193335038,
-      "latestValue": 23.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210134809,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "570b6db9-3c86-4d60-b29f-141d2fac5c9e",
@@ -869,9 +869,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193794958,
-      "latestValue": 23.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209994770,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "f529829d-ede8-4df8-ab71-cb7f5bf13b69",
@@ -882,9 +882,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193783072,
-      "latestValue": 23,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209982829,
+      "latestValue": 31.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "5621b46a-1ff4-4716-a1f7-d3e9d5cfc38d",
@@ -895,9 +895,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193731084,
-      "latestValue": 23.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209930835,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e5bd8c6e-103f-4d07-9e63-b5f76a84f20c",
@@ -908,9 +908,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193799746,
-      "latestValue": 23.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209999490,
+      "latestValue": 30.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "503b3653-0512-469d-823d-896fa9ea61ec",
@@ -921,9 +921,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193241488,
-      "latestValue": 22.6,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210041285,
+      "latestValue": 30.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "9c2fad73-2e3c-4b72-8f58-f25e9b20013b",
@@ -934,9 +934,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193270832,
-      "latestValue": 23.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210070456,
+      "latestValue": 31.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "cce185ce-bb16-49cb-8b82-7cc07bf277c1",
@@ -947,9 +947,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193698439,
-      "latestValue": 24.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209298270,
+      "latestValue": 32.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a4db20fa-f07b-4c7e-bdc3-90d590ef0b5e",
@@ -960,9 +960,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193677495,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209877340,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "ea78f1e5-4b4f-448c-a2c2-5c7f678d73ff",
@@ -973,9 +973,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193248303,
-      "latestValue": 24.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210048116,
+      "latestValue": 31.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "02770a9f-25d9-4edf-ab03-c77187b83fae",
@@ -986,9 +986,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193295375,
-      "latestValue": 24.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209495206,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "f9eaabee-de9e-434f-a50a-cee11aaedad7",
@@ -999,9 +999,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193419447,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209619468,
+      "latestValue": 30.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "20cb8fa0-8128-41a5-9615-d1b03c79ed63",
@@ -1012,9 +1012,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193503448,
-      "latestValue": 23,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209703184,
+      "latestValue": 30.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "7142a42a-3117-4cae-a9cf-083d0fa207a9",
@@ -1025,9 +1025,22 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193239642,
-      "latestValue": 22.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210039461,
+      "latestValue": 30.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
+    },
+    {
+      "deviceId": "3130b1da-f21c-4b5e-b860-a3a58984d6c8",
+      "objectId": 2863,
+      "name": "164 - Kleinsteinbacher Strasse 2",
+      "category": "Temperatur",
+      "path": "data/sensors/temperatur/3130b1da-f21c-4b5e-b860-a3a58984d6c8.json",
+      "fields": [
+        "temp"
+      ],
+      "latestTimestamp": 1782199880352,
+      "latestValue": 26.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "cc2ebbe0-a08f-443a-a2d5-c0ef95920f07",
@@ -1038,9 +1051,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193584902,
-      "latestValue": 22.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209784692,
+      "latestValue": 30.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "87f45eaa-bad5-4096-ad90-e6d81056934c",
@@ -1051,9 +1064,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193226689,
-      "latestValue": 22.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210026606,
+      "latestValue": 30.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "df542925-e587-4886-ba02-fec52dfcd842",
@@ -1064,9 +1077,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193592770,
-      "latestValue": 23.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209792404,
+      "latestValue": 31.2,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "fa0d211f-3f9c-423c-a5ae-fd34424ab649",
@@ -1077,9 +1090,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193792280,
-      "latestValue": 23.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209991895,
+      "latestValue": 29.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "9f27a36b-633e-4be5-84b9-b445aa0d5387",
@@ -1090,9 +1103,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193634561,
-      "latestValue": 24.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209837083,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "836952e2-1e16-4f5c-864f-471e0c6995f9",
@@ -1103,9 +1116,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193356192,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209555910,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "85d510b6-32d5-4027-943c-b7298f1a6ad9",
@@ -1116,9 +1129,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193767887,
-      "latestValue": 22.3,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209967547,
+      "latestValue": 31.5,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "ffe8473c-3297-45fa-b32a-1d106d9a7f44",
@@ -1129,9 +1142,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193493332,
-      "latestValue": 24,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209693059,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "fe9634e5-ab39-4a56-a921-5548c9ef9708",
@@ -1142,9 +1155,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193483764,
-      "latestValue": 24.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209683456,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "802121f8-a114-47dc-a4c4-fc81d02f49c6",
@@ -1155,9 +1168,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193287323,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210087102,
+      "latestValue": 31.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "48233b74-7e23-4e7c-b302-1df6fe03f0a2",
@@ -1168,9 +1181,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193447034,
-      "latestValue": 24.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209646913,
+      "latestValue": 31.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "99969ac9-746e-44e4-b40e-9799421f22db",
@@ -1181,9 +1194,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193545769,
-      "latestValue": 24.8,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209745541,
+      "latestValue": 31.7,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "07c22558-10ba-4ce3-9a5e-8005acd88280",
@@ -1194,9 +1207,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193696646,
-      "latestValue": 24.5,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209896423,
+      "latestValue": 32.4,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "1be9518c-235e-49a1-aaa1-25f874690b14",
@@ -1207,9 +1220,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193452808,
-      "latestValue": 23.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209652587,
+      "latestValue": 31.9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "f853bdd1-153d-46e1-908b-dec1fa7798a7",
@@ -1220,9 +1233,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193236388,
-      "latestValue": 24.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210035945,
+      "latestValue": 31.8,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "5e1cb6b7-724c-4952-adc3-f945fb8abe02",
@@ -1233,9 +1246,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191472281,
-      "latestValue": 100,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209468884,
+      "latestValue": 0,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "dc392f24-3f5a-41ea-9d82-8187d6606158",
@@ -1246,9 +1259,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191218535,
-      "latestValue": 59,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209214985,
+      "latestValue": 60,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "99606c20-30b6-4f42-afa8-991243c0232b",
@@ -1259,9 +1272,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782180712642,
-      "latestValue": 28,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782205907128,
+      "latestValue": 27,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a91e3afa-3002-41b7-a34b-96121ac07a62",
@@ -1272,9 +1285,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782192563313,
-      "latestValue": 41,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782206960156,
+      "latestValue": 42,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "154d4cc3-1498-4d67-bc13-d4f1bfe51715",
@@ -1285,9 +1298,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191256137,
-      "latestValue": 20,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209252536,
+      "latestValue": 18,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "c6e75872-c0b0-4e0d-90d6-020681daadc5",
@@ -1298,9 +1311,9 @@
       "fields": [
         "clicks"
       ],
-      "latestTimestamp": 1782193223533,
+      "latestTimestamp": 1782210002312,
       "latestValue": 928,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "4ac74c30-4378-4182-86cb-f1e552d8f8fb",
@@ -1311,9 +1324,9 @@
       "fields": [
         "clicks"
       ],
-      "latestTimestamp": 1782191509633,
+      "latestTimestamp": 1782208911783,
       "latestValue": 850,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "01aa1811-2387-4e46-b427-b3c669d27227",
@@ -1324,9 +1337,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782192968457,
-      "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782207365804,
+      "latestValue": 10,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a9226e35-c30d-4469-875f-9550722a213a",
@@ -1337,9 +1350,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782193643880,
+      "latestTimestamp": 1782204442218,
       "latestValue": 66,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a399a610-a147-440f-9cf9-c105351f3ef9",
@@ -1350,9 +1363,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782186691998,
-      "latestValue": 61,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782204688332,
+      "latestValue": 62,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "37179c7e-8261-4a72-b85a-a9d7cd79a6fd",
@@ -1363,9 +1376,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782188700825,
-      "latestValue": 72,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782203097667,
+      "latestValue": 76,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "da457bd9-26c9-4e43-a626-8aa537d25539",
@@ -1376,9 +1389,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782190671436,
-      "latestValue": 22,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782208667825,
+      "latestValue": 29,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "7b4692f6-f8cc-417c-baee-c2933956ba93",
@@ -1389,9 +1402,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782193619622,
-      "latestValue": 89,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782208016617,
+      "latestValue": 88,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "4b8a3f36-8365-4cd7-86e3-56d9a752d245",
@@ -1402,9 +1415,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191690403,
-      "latestValue": 60,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209685824,
+      "latestValue": 58,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "895ad3bf-82e0-4add-8a1b-ff025fcb7b5a",
@@ -1415,9 +1428,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191019062,
+      "latestTimestamp": 1782209015584,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e1efae3a-b8a4-4f78-9185-3d2decc3dcf4",
@@ -1428,9 +1441,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782193447643,
-      "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782207841830,
+      "latestValue": 9,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "7c5ff9ad-0dfb-4961-bf15-3894653ee8ad",
@@ -1443,7 +1456,7 @@
       ],
       "latestTimestamp": 1782192992753,
       "latestValue": 79,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "395d504a-70eb-4788-b948-640783106c74",
@@ -1454,9 +1467,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782186636349,
-      "latestValue": 70,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782208231108,
+      "latestValue": 69,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "9a2313d1-6229-4c57-8434-214345e2d296",
@@ -1467,9 +1480,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782188877471,
-      "latestValue": 64,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782206873780,
+      "latestValue": 0,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "7f18567e-b9fc-4bff-a168-c08734c992b5",
@@ -1480,9 +1493,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191157947,
-      "latestValue": 33,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209154460,
+      "latestValue": 32,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "ae034f41-c5bd-4fb0-97c3-02608da734ab",
@@ -1493,9 +1506,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193775559,
-      "latestValue": 24.2,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209975217,
+      "latestValue": 32,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "20278ff3-4b52-4639-baa4-1c01a34077a1",
@@ -1506,9 +1519,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782184520315,
-      "latestValue": 65,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209714416,
+      "latestValue": 64,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "66f12bf8-768a-483a-8f23-926c6ce8941c",
@@ -1519,9 +1532,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782186861985,
+      "latestTimestamp": 1782197659213,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "1f6f2029-9e79-442d-b75e-b6a3133be829",
@@ -1532,9 +1545,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782190741842,
-      "latestValue": 33,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782208738372,
+      "latestValue": 25,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "88d4b3ea-ae5c-474c-9d61-6dd3b9bbc1cd",
@@ -1545,9 +1558,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782189682291,
+      "latestTimestamp": 1782204079742,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "e490144a-6a5e-4d0f-9a6c-9c19a038ba6f",
@@ -1558,9 +1571,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782193479225,
-      "latestValue": 57,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782207876055,
+      "latestValue": 42,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "9e9468d5-9eee-4581-8aa0-01c48afe571d",
@@ -1571,9 +1584,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782193182924,
-      "latestValue": 13,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782203979909,
+      "latestValue": 12,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "7f710e8a-8f75-4792-b3a2-dd0fe86c47b9",
@@ -1584,9 +1597,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782192965555,
+      "latestTimestamp": 1782207362104,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "94c9cde6-f03f-497c-ae60-c4470bea38a8",
@@ -1597,9 +1610,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782192733553,
-      "latestValue": 82,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782207131302,
+      "latestValue": 81,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "370727dd-fb2c-4527-9643-dacd9324dc78",
@@ -1610,9 +1623,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782190932055,
+      "latestTimestamp": 1782208928492,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "2cf4f75a-5426-47a6-923a-39b31f510279",
@@ -1623,9 +1636,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191008490,
+      "latestTimestamp": 1782209005703,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "94fa6329-09aa-4af4-b23d-ccefb1e99d77",
@@ -1636,9 +1649,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782190697628,
+      "latestTimestamp": 1782208693944,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "81368669-977b-46b3-b53e-e57df849bead",
@@ -1649,9 +1662,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191656020,
-      "latestValue": 29,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209652144,
+      "latestValue": 44,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "109",
@@ -1662,9 +1675,9 @@
       "fields": [
         "pegel"
       ],
-      "latestTimestamp": 1782189000000,
-      "latestValue": 28.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782206100000,
+      "latestValue": 28.6,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "110",
@@ -1675,9 +1688,9 @@
       "fields": [
         "pegel"
       ],
-      "latestTimestamp": 1782189600000,
-      "latestValue": 34.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782206100000,
+      "latestValue": 36.3,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "9016",
@@ -1688,9 +1701,9 @@
       "fields": [
         "pegel"
       ],
-      "latestTimestamp": 1782189000000,
-      "latestValue": 390,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782206100000,
+      "latestValue": 391,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "49651f8b-f025-43f6-bae0-777265936594",
@@ -1701,9 +1714,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782190932884,
-      "latestValue": 22,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782208929088,
+      "latestValue": 13,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "6a4e8612-b443-4515-b380-ef6949c8a5fd",
@@ -1714,9 +1727,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191800434,
+      "latestTimestamp": 1782209797209,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "1a6b4232-c456-4d42-8e69-76468a52890b",
@@ -1727,9 +1740,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191920954,
-      "latestValue": 48,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209915659,
+      "latestValue": 57,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "5a0044df-4137-45df-b972-569b6fa68329",
@@ -1740,9 +1753,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782192708797,
+      "latestTimestamp": 1782196308084,
       "latestValue": 91,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "6720b2c5-f0c1-45aa-b6ad-0073edbc885c",
@@ -1753,9 +1766,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191123517,
-      "latestValue": 23,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782205520342,
+      "latestValue": 26,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "c53c6806-9443-4b58-987c-ea4e7f7e3f30",
@@ -1766,9 +1779,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782181520838,
-      "latestValue": 35,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782203116492,
+      "latestValue": 49,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "097756cc-668a-46c3-a267-5c4a2e22726e",
@@ -1779,9 +1792,9 @@
       "fields": [
         "bodenfeuchte"
       ],
-      "latestTimestamp": 1782187941410,
+      "latestTimestamp": 1782209526964,
       "latestValue": 26.1,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "8fcde1bc-ad52-40fb-8ae5-4a4dc6aabc9b",
@@ -1792,9 +1805,9 @@
       "fields": [
         "bodenfeuchte"
       ],
-      "latestTimestamp": 1782173131668,
+      "latestTimestamp": 1782205522273,
       "latestValue": 7.4,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a5264163-f9df-4995-9b35-0649e4119c85",
@@ -1805,9 +1818,9 @@
       "fields": [
         "temp"
       ],
-      "latestTimestamp": 1782193326802,
-      "latestValue": 24.7,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782210126401,
+      "latestValue": 31.1,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "3c0237c8-ccb6-4828-b06e-db69dc4a4ccc",
@@ -1818,9 +1831,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782188995760,
+      "latestTimestamp": 1782199793971,
       "latestValue": 0,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "439e0149-08cd-40cc-91ef-c4a935299a3b",
@@ -1831,9 +1844,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782193356451,
-      "latestValue": 18,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782207752518,
+      "latestValue": 27,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     },
     {
       "deviceId": "a25ea29f-eec3-43ad-9678-1f4cdcab0444",
@@ -1844,9 +1857,9 @@
       "fields": [
         "fillinglvl_percent"
       ],
-      "latestTimestamp": 1782191864320,
-      "latestValue": 12,
-      "updatedAt": "2026-06-23T05:50:10.926Z"
+      "latestTimestamp": 1782209859515,
+      "latestValue": 19,
+      "updatedAt": "2026-06-23T10:22:24.239Z"
     }
   ]
 }
