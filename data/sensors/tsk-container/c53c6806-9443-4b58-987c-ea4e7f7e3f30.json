@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2830,
+    "objectId": 2856,
     "deviceId": "c53c6806-9443-4b58-987c-ea4e7f7e3f30",
     "name": "Schlesierstr./Karpatenstr. Rechter Cont.",
     "category": "TSK-Container",
@@ -24,8 +24,9 @@
     [1782105935613, 39],
     [1782131211707, 34],
     [1782152727036, 35],
-    [1782159924957, 32]
+    [1782159924957, 32],
+    [1782174321753, 32]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-22T21:22:12.256Z"
+  "updatedAt": "2026-06-23T01:33:20.848Z"
 }

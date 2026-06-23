@@ -1,9 +1,9 @@
 {
-  "observedAt": "2026-06-22T23:05:40.682Z",
+  "observedAt": "2026-06-23T01:33:20.848Z",
   "mode": "primary",
-  "liveSensorCount": 130,
-  "archivedSensorCount": 130,
+  "liveSensorCount": 136,
+  "archivedSensorCount": 136,
   "skippedSensors": 0,
-  "changedArchives": 130,
+  "changedArchives": 134,
   "registryChanged": true
 }
