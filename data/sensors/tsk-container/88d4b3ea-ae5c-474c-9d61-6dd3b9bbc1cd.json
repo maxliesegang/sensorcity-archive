@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2833,
+    "objectId": 2878,
     "deviceId": "88d4b3ea-ae5c-474c-9d61-6dd3b9bbc1cd",
     "name": "In der Tasch/Rittnertstr. ",
     "category": "TSK-Container",
@@ -29,8 +29,9 @@
     [1782175285848, 0],
     [1782189682291, 0],
     [1782204079742, 0],
-    [1782218476191, 0]
+    [1782218476191, 0],
+    [1782283262010, 0]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-23T13:24:39.957Z"
+  "updatedAt": "2026-06-24T07:37:37.330Z"
 }

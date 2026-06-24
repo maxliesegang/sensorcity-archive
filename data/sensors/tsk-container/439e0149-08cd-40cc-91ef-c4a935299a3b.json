@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2793,
+    "objectId": 2872,
     "deviceId": "439e0149-08cd-40cc-91ef-c4a935299a3b",
     "name": "Wartburgstr./Hohenzollernstr. (Linker Cont.)",
     "category": "TSK-Container",
@@ -29,8 +29,9 @@
     [1782175366864, 18],
     [1782193356451, 18],
     [1782207752518, 27],
-    [1782218550566, 24]
+    [1782218550566, 24],
+    [1782283332604, 48]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-23T13:24:39.957Z"
+  "updatedAt": "2026-06-24T07:37:37.330Z"
 }

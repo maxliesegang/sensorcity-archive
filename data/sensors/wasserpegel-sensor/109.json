@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2849,
+    "objectId": 2864,
     "deviceId": "109",
     "name": "Messstelle Berghausen / Pfinz (HVZ/RP Karlsruhe)",
     "category": "Wasserpegel-Sensor",
@@ -29,8 +29,9 @@
     [1782173700000, 28.9],
     [1782189000000, 28.7],
     [1782206100000, 28.6],
-    [1782216900000, 28.6]
+    [1782216900000, 28.6],
+    [1782282600000, 28.1]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-23T13:24:39.957Z"
+  "updatedAt": "2026-06-24T07:37:37.330Z"
 }

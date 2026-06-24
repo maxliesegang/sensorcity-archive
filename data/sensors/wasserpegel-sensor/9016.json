@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2848,
+    "objectId": 2865,
     "deviceId": "9016",
     "name": "Messstelle Maxau / Rhein (HVZ/WSA Oberrhein)",
     "category": "Wasserpegel-Sensor",
@@ -29,8 +29,9 @@
     [1782173700000, 392],
     [1782189000000, 390],
     [1782206100000, 391],
-    [1782216900000, 391]
+    [1782216900000, 391],
+    [1782282600000, 390]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-23T13:24:39.957Z"
+  "updatedAt": "2026-06-24T07:37:37.330Z"
 }

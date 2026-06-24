@@ -1,6 +1,6 @@
 {
   "sensor": {
-    "objectId": 2829,
+    "objectId": 2869,
     "deviceId": "37179c7e-8261-4a72-b85a-a9d7cd79a6fd",
     "name": "Blumentorstr. 21 (ggn. HL-Markt, Parkplatz)",
     "category": "TSK-Container",
@@ -28,8 +28,9 @@
     [1782167105072, 72],
     [1782188700825, 72],
     [1782203097667, 76],
-    [1782217780182, 79]
+    [1782217780182, 79],
+    [1782282281355, 0]
   ],
   "createdAt": "2026-06-21T21:31:46.004Z",
-  "updatedAt": "2026-06-23T13:24:39.957Z"
+  "updatedAt": "2026-06-24T07:37:37.330Z"
 }
