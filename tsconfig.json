@@ -8,6 +8,7 @@
     "noUncheckedIndexedAccess": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
+    "types": ["node"],
     "skipLibCheck": true
   },
   "include": ["src/**/*.ts"]
