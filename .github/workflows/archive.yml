@@ -2,7 +2,7 @@ name: Hourly SensorCity archive
 
 on:
   schedule:
-    - cron: "43 * * * *"
+    - cron: "43 2,14 * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,31 +23,6 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-
-      - name: Diagnose geoportal connectivity
-        continue-on-error: true
-        run: |
-          HOST=geoportal.karlsruhe.de
-          URL="https://$HOST/ags04/rest/services/Hosted/Sensordaten_NodeRED/FeatureServer/1/query?where=1=1&returnCountOnly=true&f=json"
-          echo "::group::Runner public IP"
-          curl -sS --max-time 15 https://api.ipify.org || echo "(could not determine public IP)"
-          echo
-          echo "::endgroup::"
-          echo "::group::DNS resolution"
-          getent hosts "$HOST" || true
-          nslookup "$HOST" || true
-          echo "::endgroup::"
-          echo "::group::Raw TCP connect to :443 (10s)"
-          timeout 10 bash -c "echo > /dev/tcp/$HOST/443" \
-            && echo "TCP connect OK" \
-            || echo "TCP connect FAILED (port 443 unreachable)"
-          echo "::endgroup::"
-          echo "::group::HTTPS request (verbose, 20s)"
-          curl -v --max-time 20 \
-            -o /dev/null \
-            -w "connect=%{time_connect}s total=%{time_total}s http=%{http_code}\n" \
-            "$URL" || echo "curl FAILED with exit $?"
-          echo "::endgroup::"
 
       - name: Update archive
         run: npm run archive
